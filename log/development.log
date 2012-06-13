@@ -1,0 +1,3206 @@
+
+
+Started GET "/assets/rails.png" for 127.0.0.1 at 2012-05-20 17:24:44 -0400
+Served asset /rails.png - 200 OK (6ms)
+
+
+Started GET "/say/hello" for 127.0.0.1 at 2012-05-20 17:28:30 -0400
+
+ActionController::RoutingError (No route matches [GET] "/say/hello"):
+  actionpack (3.2.3) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (3.2.3) lib/action_dispatch/middleware/show_exceptions.rb:56:in `call'
+  railties (3.2.3) lib/rails/rack/logger.rb:26:in `call_app'
+  railties (3.2.3) lib/rails/rack/logger.rb:16:in `call'
+  actionpack (3.2.3) lib/action_dispatch/middleware/request_id.rb:22:in `call'
+  rack (1.4.1) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.4.1) lib/rack/runtime.rb:17:in `call'
+  activesupport (3.2.3) lib/active_support/cache/strategy/local_cache.rb:72:in `call'
+  rack (1.4.1) lib/rack/lock.rb:15:in `call'
+  actionpack (3.2.3) lib/action_dispatch/middleware/static.rb:62:in `call'
+  railties (3.2.3) lib/rails/engine.rb:479:in `call'
+  railties (3.2.3) lib/rails/application.rb:220:in `call'
+  rack (1.4.1) lib/rack/content_length.rb:14:in `call'
+  railties (3.2.3) lib/rails/rack/log_tailer.rb:14:in `call'
+  rack (1.4.1) lib/rack/handler/webrick.rb:59:in `service'
+  /Users/danieljeng1/.rvm/rubies/ruby-1.9.3-p194/lib/ruby/1.9.1/webrick/httpserver.rb:138:in `service'
+  /Users/danieljeng1/.rvm/rubies/ruby-1.9.3-p194/lib/ruby/1.9.1/webrick/httpserver.rb:94:in `run'
+  /Users/danieljeng1/.rvm/rubies/ruby-1.9.3-p194/lib/ruby/1.9.1/webrick/server.rb:191:in `block in start_thread'
+
+
+  Rendered /Users/danieljeng1/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (2.5ms)
+
+
+Started GET "/say/hello" for 127.0.0.1 at 2012-05-20 17:29:35 -0400
+
+ActionController::RoutingError (No route matches [GET] "/say/hello"):
+  actionpack (3.2.3) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (3.2.3) lib/action_dispatch/middleware/show_exceptions.rb:56:in `call'
+  railties (3.2.3) lib/rails/rack/logger.rb:26:in `call_app'
+  railties (3.2.3) lib/rails/rack/logger.rb:16:in `call'
+  actionpack (3.2.3) lib/action_dispatch/middleware/request_id.rb:22:in `call'
+  rack (1.4.1) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.4.1) lib/rack/runtime.rb:17:in `call'
+  activesupport (3.2.3) lib/active_support/cache/strategy/local_cache.rb:72:in `call'
+  rack (1.4.1) lib/rack/lock.rb:15:in `call'
+  actionpack (3.2.3) lib/action_dispatch/middleware/static.rb:62:in `call'
+  railties (3.2.3) lib/rails/engine.rb:479:in `call'
+  railties (3.2.3) lib/rails/application.rb:220:in `call'
+  rack (1.4.1) lib/rack/content_length.rb:14:in `call'
+  railties (3.2.3) lib/rails/rack/log_tailer.rb:14:in `call'
+  rack (1.4.1) lib/rack/handler/webrick.rb:59:in `service'
+  /Users/danieljeng1/.rvm/rubies/ruby-1.9.3-p194/lib/ruby/1.9.1/webrick/httpserver.rb:138:in `service'
+  /Users/danieljeng1/.rvm/rubies/ruby-1.9.3-p194/lib/ruby/1.9.1/webrick/httpserver.rb:94:in `run'
+  /Users/danieljeng1/.rvm/rubies/ruby-1.9.3-p194/lib/ruby/1.9.1/webrick/server.rb:191:in `block in start_thread'
+
+
+  Rendered /Users/danieljeng1/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.7ms)
+
+
+Started GET "/say/hello" for 127.0.0.1 at 2012-05-20 17:29:36 -0400
+
+ActionController::RoutingError (No route matches [GET] "/say/hello"):
+  actionpack (3.2.3) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (3.2.3) lib/action_dispatch/middleware/show_exceptions.rb:56:in `call'
+  railties (3.2.3) lib/rails/rack/logger.rb:26:in `call_app'
+  railties (3.2.3) lib/rails/rack/logger.rb:16:in `call'
+  actionpack (3.2.3) lib/action_dispatch/middleware/request_id.rb:22:in `call'
+  rack (1.4.1) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.4.1) lib/rack/runtime.rb:17:in `call'
+  activesupport (3.2.3) lib/active_support/cache/strategy/local_cache.rb:72:in `call'
+  rack (1.4.1) lib/rack/lock.rb:15:in `call'
+  actionpack (3.2.3) lib/action_dispatch/middleware/static.rb:62:in `call'
+  railties (3.2.3) lib/rails/engine.rb:479:in `call'
+  railties (3.2.3) lib/rails/application.rb:220:in `call'
+  rack (1.4.1) lib/rack/content_length.rb:14:in `call'
+  railties (3.2.3) lib/rails/rack/log_tailer.rb:14:in `call'
+  rack (1.4.1) lib/rack/handler/webrick.rb:59:in `service'
+  /Users/danieljeng1/.rvm/rubies/ruby-1.9.3-p194/lib/ruby/1.9.1/webrick/httpserver.rb:138:in `service'
+  /Users/danieljeng1/.rvm/rubies/ruby-1.9.3-p194/lib/ruby/1.9.1/webrick/httpserver.rb:94:in `run'
+  /Users/danieljeng1/.rvm/rubies/ruby-1.9.3-p194/lib/ruby/1.9.1/webrick/server.rb:191:in `block in start_thread'
+
+
+  Rendered /Users/danieljeng1/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.7ms)
+
+
+Started GET "/say/hello" for 127.0.0.1 at 2012-05-20 17:30:58 -0400
+
+ActionController::RoutingError (No route matches [GET] "/say/hello"):
+  actionpack (3.2.3) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (3.2.3) lib/action_dispatch/middleware/show_exceptions.rb:56:in `call'
+  railties (3.2.3) lib/rails/rack/logger.rb:26:in `call_app'
+  railties (3.2.3) lib/rails/rack/logger.rb:16:in `call'
+  actionpack (3.2.3) lib/action_dispatch/middleware/request_id.rb:22:in `call'
+  rack (1.4.1) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.4.1) lib/rack/runtime.rb:17:in `call'
+  activesupport (3.2.3) lib/active_support/cache/strategy/local_cache.rb:72:in `call'
+  rack (1.4.1) lib/rack/lock.rb:15:in `call'
+  actionpack (3.2.3) lib/action_dispatch/middleware/static.rb:62:in `call'
+  railties (3.2.3) lib/rails/engine.rb:479:in `call'
+  railties (3.2.3) lib/rails/application.rb:220:in `call'
+  rack (1.4.1) lib/rack/content_length.rb:14:in `call'
+  railties (3.2.3) lib/rails/rack/log_tailer.rb:14:in `call'
+  rack (1.4.1) lib/rack/handler/webrick.rb:59:in `service'
+  /Users/danieljeng1/.rvm/rubies/ruby-1.9.3-p194/lib/ruby/1.9.1/webrick/httpserver.rb:138:in `service'
+  /Users/danieljeng1/.rvm/rubies/ruby-1.9.3-p194/lib/ruby/1.9.1/webrick/httpserver.rb:94:in `run'
+  /Users/danieljeng1/.rvm/rubies/ruby-1.9.3-p194/lib/ruby/1.9.1/webrick/server.rb:191:in `block in start_thread'
+
+
+  Rendered /Users/danieljeng1/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.7ms)
+
+
+Started GET "/say/hello" for 127.0.0.1 at 2012-05-20 17:40:07 -0400
+Processing by SayController#hello as HTML
+  Rendered say/hello.html.erb within layouts/application (0.3ms)
+Compiled say.css  (29ms)  (pid 94891)
+Compiled application.css  (39ms)  (pid 94891)
+Compiled jquery.js  (2ms)  (pid 94891)
+Compiled jquery_ujs.js  (0ms)  (pid 94891)
+Compiled say.js  (269ms)  (pid 94891)
+Compiled application.js  (373ms)  (pid 94891)
+Completed 200 OK in 508ms (Views: 507.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-05-20 17:40:07 -0400
+Served asset /application.css - 200 OK (6ms)
+
+
+Started GET "/assets/say.css?body=1" for 127.0.0.1 at 2012-05-20 17:40:07 -0400
+Served asset /say.css - 200 OK (1ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-05-20 17:40:07 -0400
+Served asset /jquery.js - 200 OK (3ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-05-20 17:40:07 -0400
+Served asset /application.js - 200 OK (6ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-05-20 17:40:07 -0400
+Served asset /jquery_ujs.js - 200 OK (3ms)
+
+
+Started GET "/assets/say.js?body=1" for 127.0.0.1 at 2012-05-20 17:40:07 -0400
+Served asset /say.js - 200 OK (9ms)
+
+
+Started GET "/say/hello" for 127.0.0.1 at 2012-05-20 17:40:08 -0400
+Processing by SayController#hello as HTML
+  Rendered say/hello.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 5ms (Views: 5.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-05-20 17:40:08 -0400
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-05-20 17:40:08 -0400
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/say.css?body=1" for 127.0.0.1 at 2012-05-20 17:40:09 -0400
+Served asset /say.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-05-20 17:40:09 -0400
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-05-20 17:40:09 -0400
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/say.js?body=1" for 127.0.0.1 at 2012-05-20 17:40:09 -0400
+Served asset /say.js - 304 Not Modified (0ms)
+
+
+Started GET "/say/hello" for 127.0.0.1 at 2012-05-20 17:50:18 -0400
+Processing by SayController#hello as HTML
+  Rendered say/hello.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 7ms (Views: 6.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-05-20 17:50:19 -0400
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-05-20 17:50:19 -0400
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-05-20 17:50:19 -0400
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-05-20 17:50:19 -0400
+Served asset /application.js - 304 Not Modified (4ms)
+
+
+Started GET "/assets/say.css?body=1" for 127.0.0.1 at 2012-05-20 17:50:19 -0400
+Served asset /say.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/say.js?body=1" for 127.0.0.1 at 2012-05-20 17:50:19 -0400
+Served asset /say.js - 304 Not Modified (0ms)
+
+
+Started GET "/say/hello" for 127.0.0.1 at 2012-05-20 17:51:58 -0400
+Processing by SayController#hello as HTML
+  Rendered say/hello.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 7ms (Views: 6.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-05-20 17:51:58 -0400
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/say.js?body=1" for 127.0.0.1 at 2012-05-20 17:51:58 -0400
+Served asset /say.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-05-20 17:51:58 -0400
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/say.css?body=1" for 127.0.0.1 at 2012-05-20 17:51:58 -0400
+Served asset /say.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-05-20 17:51:58 -0400
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-05-20 17:51:58 -0400
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/say/hello" for 127.0.0.1 at 2012-05-20 17:52:13 -0400
+Processing by SayController#hello as HTML
+  Rendered say/hello.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 5ms (Views: 5.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-05-20 17:52:13 -0400
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/say.js?body=1" for 127.0.0.1 at 2012-05-20 17:52:13 -0400
+Served asset /say.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/say.css?body=1" for 127.0.0.1 at 2012-05-20 17:52:13 -0400
+Served asset /say.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-05-20 17:52:13 -0400
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-05-20 17:52:13 -0400
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-05-20 17:52:13 -0400
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/say/hello" for 127.0.0.1 at 2012-05-20 17:52:23 -0400
+Processing by SayController#hello as HTML
+  Rendered say/hello.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 7ms (Views: 6.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/say.css?body=1" for 127.0.0.1 at 2012-05-20 17:52:23 -0400
+Served asset /say.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-05-20 17:52:23 -0400
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/say.js?body=1" for 127.0.0.1 at 2012-05-20 17:52:23 -0400
+Served asset /say.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-05-20 17:52:23 -0400
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-05-20 17:52:23 -0400
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-05-20 17:52:23 -0400
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/say/hello" for 127.0.0.1 at 2012-05-20 17:52:25 -0400
+Processing by SayController#hello as HTML
+  Rendered say/hello.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 5ms (Views: 4.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/say.css?body=1" for 127.0.0.1 at 2012-05-20 17:52:25 -0400
+Served asset /say.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-05-20 17:52:25 -0400
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-05-20 17:52:25 -0400
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-05-20 17:52:25 -0400
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/say.js?body=1" for 127.0.0.1 at 2012-05-20 17:52:25 -0400
+Served asset /say.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-05-20 17:52:25 -0400
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/say/hello" for 127.0.0.1 at 2012-05-20 17:52:30 -0400
+Processing by SayController#hello as HTML
+  Rendered say/hello.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 6ms (Views: 5.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-05-20 17:52:30 -0400
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/say.css?body=1" for 127.0.0.1 at 2012-05-20 17:52:30 -0400
+Served asset /say.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-05-20 17:52:30 -0400
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-05-20 17:52:30 -0400
+Served asset /application.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-05-20 17:52:30 -0400
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/say.js?body=1" for 127.0.0.1 at 2012-05-20 17:52:30 -0400
+Served asset /say.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/rails.png" for 127.0.0.1 at 2012-06-07 15:05:22 -0400
+Served asset /rails.png - 200 OK (40ms)
+
+
+Started GET "/say" for 127.0.0.1 at 2012-06-07 15:05:42 -0400
+
+AbstractController::ActionNotFound (The action 'index' could not be found for SayController):
+  actionpack (3.2.3) lib/abstract_controller/base.rb:116:in `process'
+  actionpack (3.2.3) lib/abstract_controller/rendering.rb:45:in `process'
+  actionpack (3.2.3) lib/action_controller/metal.rb:203:in `dispatch'
+  actionpack (3.2.3) lib/action_controller/metal/rack_delegation.rb:14:in `dispatch'
+  actionpack (3.2.3) lib/action_controller/metal.rb:246:in `block in action'
+  actionpack (3.2.3) lib/action_dispatch/routing/route_set.rb:73:in `call'
+  actionpack (3.2.3) lib/action_dispatch/routing/route_set.rb:73:in `dispatch'
+  actionpack (3.2.3) lib/action_dispatch/routing/route_set.rb:36:in `call'
+  journey (1.0.3) lib/journey/router.rb:68:in `block in call'
+  journey (1.0.3) lib/journey/router.rb:56:in `each'
+  journey (1.0.3) lib/journey/router.rb:56:in `call'
+  actionpack (3.2.3) lib/action_dispatch/routing/route_set.rb:600:in `call'
+  actionpack (3.2.3) lib/action_dispatch/middleware/best_standards_support.rb:17:in `call'
+  rack (1.4.1) lib/rack/etag.rb:23:in `call'
+  rack (1.4.1) lib/rack/conditionalget.rb:25:in `call'
+  actionpack (3.2.3) lib/action_dispatch/middleware/head.rb:14:in `call'
+  actionpack (3.2.3) lib/action_dispatch/middleware/params_parser.rb:21:in `call'
+  actionpack (3.2.3) lib/action_dispatch/middleware/flash.rb:242:in `call'
+  rack (1.4.1) lib/rack/session/abstract/id.rb:205:in `context'
+  rack (1.4.1) lib/rack/session/abstract/id.rb:200:in `call'
+  actionpack (3.2.3) lib/action_dispatch/middleware/cookies.rb:338:in `call'
+  activerecord (3.2.3) lib/active_record/query_cache.rb:64:in `call'
+  activerecord (3.2.3) lib/active_record/connection_adapters/abstract/connection_pool.rb:467:in `call'
+  actionpack (3.2.3) lib/action_dispatch/middleware/callbacks.rb:28:in `block in call'
+  activesupport (3.2.3) lib/active_support/callbacks.rb:405:in `_run__4214248066560954427__call__1435292038670733345__callbacks'
+  activesupport (3.2.3) lib/active_support/callbacks.rb:405:in `__run_callback'
+  activesupport (3.2.3) lib/active_support/callbacks.rb:385:in `_run_call_callbacks'
+  activesupport (3.2.3) lib/active_support/callbacks.rb:81:in `run_callbacks'
+  actionpack (3.2.3) lib/action_dispatch/middleware/callbacks.rb:27:in `call'
+  actionpack (3.2.3) lib/action_dispatch/middleware/reloader.rb:65:in `call'
+  actionpack (3.2.3) lib/action_dispatch/middleware/remote_ip.rb:31:in `call'
+  actionpack (3.2.3) lib/action_dispatch/middleware/debug_exceptions.rb:16:in `call'
+  actionpack (3.2.3) lib/action_dispatch/middleware/show_exceptions.rb:56:in `call'
+  railties (3.2.3) lib/rails/rack/logger.rb:26:in `call_app'
+  railties (3.2.3) lib/rails/rack/logger.rb:16:in `call'
+  actionpack (3.2.3) lib/action_dispatch/middleware/request_id.rb:22:in `call'
+  rack (1.4.1) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.4.1) lib/rack/runtime.rb:17:in `call'
+  activesupport (3.2.3) lib/active_support/cache/strategy/local_cache.rb:72:in `call'
+  rack (1.4.1) lib/rack/lock.rb:15:in `call'
+  actionpack (3.2.3) lib/action_dispatch/middleware/static.rb:62:in `call'
+  railties (3.2.3) lib/rails/engine.rb:479:in `call'
+  railties (3.2.3) lib/rails/application.rb:220:in `call'
+  rack (1.4.1) lib/rack/content_length.rb:14:in `call'
+  railties (3.2.3) lib/rails/rack/log_tailer.rb:14:in `call'
+  rack (1.4.1) lib/rack/handler/webrick.rb:59:in `service'
+  /Users/danieljeng1/.rvm/rubies/ruby-1.9.3-p194/lib/ruby/1.9.1/webrick/httpserver.rb:138:in `service'
+  /Users/danieljeng1/.rvm/rubies/ruby-1.9.3-p194/lib/ruby/1.9.1/webrick/httpserver.rb:94:in `run'
+  /Users/danieljeng1/.rvm/rubies/ruby-1.9.3-p194/lib/ruby/1.9.1/webrick/server.rb:191:in `block in start_thread'
+
+
+  Rendered /Users/danieljeng1/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.3/lib/action_dispatch/middleware/templates/rescues/unknown_action.erb within rescues/layout (2.9ms)
+
+
+Started GET "/say/hello" for 127.0.0.1 at 2012-06-07 15:05:49 -0400
+Processing by SayController#hello as HTML
+  Rendered say/hello.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 190ms (Views: 189.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-06-07 15:05:49 -0400
+Served asset /application.css - 200 OK (2ms)
+
+
+Started GET "/assets/say.css?body=1" for 127.0.0.1 at 2012-06-07 15:05:49 -0400
+Served asset /say.css - 200 OK (2ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-06-07 15:05:49 -0400
+Served asset /jquery_ujs.js - 200 OK (5ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-06-07 15:05:49 -0400
+Served asset /jquery.js - 200 OK (3ms)
+
+
+Started GET "/assets/say.js?body=1" for 127.0.0.1 at 2012-06-07 15:05:49 -0400
+Served asset /say.js - 200 OK (1ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-06-07 15:05:49 -0400
+Served asset /application.js - 200 OK (5ms)
+
+
+Started GET "/assets/rails.png" for 127.0.0.1 at 2012-06-07 15:41:11 -0400
+
+NoMethodError (undefined method `each' for "Hello, World!":String):
+  rack (1.4.1) lib/rack/etag.rb:55:in `digest_body'
+  rack (1.4.1) lib/rack/etag.rb:26:in `call'
+  rack (1.4.1) lib/rack/conditionalget.rb:25:in `call'
+  actionpack (3.2.3) lib/action_dispatch/middleware/head.rb:14:in `call'
+  actionpack (3.2.3) lib/action_dispatch/middleware/params_parser.rb:21:in `call'
+  actionpack (3.2.3) lib/action_dispatch/middleware/flash.rb:242:in `call'
+  rack (1.4.1) lib/rack/session/abstract/id.rb:205:in `context'
+  rack (1.4.1) lib/rack/session/abstract/id.rb:200:in `call'
+  actionpack (3.2.3) lib/action_dispatch/middleware/cookies.rb:338:in `call'
+  activerecord (3.2.3) lib/active_record/query_cache.rb:64:in `call'
+  activerecord (3.2.3) lib/active_record/connection_adapters/abstract/connection_pool.rb:467:in `call'
+  actionpack (3.2.3) lib/action_dispatch/middleware/callbacks.rb:28:in `block in call'
+  activesupport (3.2.3) lib/active_support/callbacks.rb:405:in `_run__3652926980811741678__call__1719757180940118783__callbacks'
+  activesupport (3.2.3) lib/active_support/callbacks.rb:405:in `__run_callback'
+  activesupport (3.2.3) lib/active_support/callbacks.rb:385:in `_run_call_callbacks'
+  activesupport (3.2.3) lib/active_support/callbacks.rb:81:in `run_callbacks'
+  actionpack (3.2.3) lib/action_dispatch/middleware/callbacks.rb:27:in `call'
+  actionpack (3.2.3) lib/action_dispatch/middleware/reloader.rb:65:in `call'
+  actionpack (3.2.3) lib/action_dispatch/middleware/remote_ip.rb:31:in `call'
+  actionpack (3.2.3) lib/action_dispatch/middleware/debug_exceptions.rb:16:in `call'
+  actionpack (3.2.3) lib/action_dispatch/middleware/show_exceptions.rb:56:in `call'
+  railties (3.2.3) lib/rails/rack/logger.rb:26:in `call_app'
+  railties (3.2.3) lib/rails/rack/logger.rb:16:in `call'
+  actionpack (3.2.3) lib/action_dispatch/middleware/request_id.rb:22:in `call'
+  rack (1.4.1) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.4.1) lib/rack/runtime.rb:17:in `call'
+  activesupport (3.2.3) lib/active_support/cache/strategy/local_cache.rb:72:in `call'
+  rack (1.4.1) lib/rack/lock.rb:15:in `call'
+  actionpack (3.2.3) lib/action_dispatch/middleware/static.rb:62:in `call'
+  railties (3.2.3) lib/rails/engine.rb:479:in `call'
+  railties (3.2.3) lib/rails/application.rb:220:in `call'
+  railties (3.2.3) lib/rails/railtie/configurable.rb:30:in `method_missing'
+  rack (1.4.1) lib/rack/lint.rb:48:in `_call'
+  rack (1.4.1) lib/rack/lint.rb:36:in `call'
+  rack (1.4.1) lib/rack/showexceptions.rb:24:in `call'
+  rack (1.4.1) lib/rack/commonlogger.rb:20:in `call'
+  rack (1.4.1) lib/rack/chunked.rb:43:in `call'
+  rack (1.4.1) lib/rack/content_length.rb:14:in `call'
+  rack (1.4.1) lib/rack/handler/webrick.rb:59:in `service'
+  /Users/danieljeng1/.rvm/rubies/ruby-1.9.3-p194/lib/ruby/1.9.1/webrick/httpserver.rb:138:in `service'
+  /Users/danieljeng1/.rvm/rubies/ruby-1.9.3-p194/lib/ruby/1.9.1/webrick/httpserver.rb:94:in `run'
+  /Users/danieljeng1/.rvm/rubies/ruby-1.9.3-p194/lib/ruby/1.9.1/webrick/server.rb:191:in `block in start_thread'
+
+
+  Rendered /Users/danieljeng1/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.3/lib/action_dispatch/middleware/templates/rescues/_trace.erb (2.4ms)
+  Rendered /Users/danieljeng1/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.3/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (36.6ms)
+  Rendered /Users/danieljeng1/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.3/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (51.7ms)
+
+
+Started GET "/a" for 127.0.0.1 at 2012-06-07 15:41:14 -0400
+
+NoMethodError (undefined method `each' for "Hello, World!":String):
+  rack (1.4.1) lib/rack/etag.rb:55:in `digest_body'
+  rack (1.4.1) lib/rack/etag.rb:26:in `call'
+  rack (1.4.1) lib/rack/conditionalget.rb:25:in `call'
+  actionpack (3.2.3) lib/action_dispatch/middleware/head.rb:14:in `call'
+  actionpack (3.2.3) lib/action_dispatch/middleware/params_parser.rb:21:in `call'
+  actionpack (3.2.3) lib/action_dispatch/middleware/flash.rb:242:in `call'
+  rack (1.4.1) lib/rack/session/abstract/id.rb:205:in `context'
+  rack (1.4.1) lib/rack/session/abstract/id.rb:200:in `call'
+  actionpack (3.2.3) lib/action_dispatch/middleware/cookies.rb:338:in `call'
+  activerecord (3.2.3) lib/active_record/query_cache.rb:64:in `call'
+  activerecord (3.2.3) lib/active_record/connection_adapters/abstract/connection_pool.rb:467:in `call'
+  actionpack (3.2.3) lib/action_dispatch/middleware/callbacks.rb:28:in `block in call'
+  activesupport (3.2.3) lib/active_support/callbacks.rb:405:in `_run__3652926980811741678__call__1719757180940118783__callbacks'
+  activesupport (3.2.3) lib/active_support/callbacks.rb:405:in `__run_callback'
+  activesupport (3.2.3) lib/active_support/callbacks.rb:385:in `_run_call_callbacks'
+  activesupport (3.2.3) lib/active_support/callbacks.rb:81:in `run_callbacks'
+  actionpack (3.2.3) lib/action_dispatch/middleware/callbacks.rb:27:in `call'
+  actionpack (3.2.3) lib/action_dispatch/middleware/reloader.rb:65:in `call'
+  actionpack (3.2.3) lib/action_dispatch/middleware/remote_ip.rb:31:in `call'
+  actionpack (3.2.3) lib/action_dispatch/middleware/debug_exceptions.rb:16:in `call'
+  actionpack (3.2.3) lib/action_dispatch/middleware/show_exceptions.rb:56:in `call'
+  railties (3.2.3) lib/rails/rack/logger.rb:26:in `call_app'
+  railties (3.2.3) lib/rails/rack/logger.rb:16:in `call'
+  actionpack (3.2.3) lib/action_dispatch/middleware/request_id.rb:22:in `call'
+  rack (1.4.1) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.4.1) lib/rack/runtime.rb:17:in `call'
+  activesupport (3.2.3) lib/active_support/cache/strategy/local_cache.rb:72:in `call'
+  rack (1.4.1) lib/rack/lock.rb:15:in `call'
+  actionpack (3.2.3) lib/action_dispatch/middleware/static.rb:62:in `call'
+  railties (3.2.3) lib/rails/engine.rb:479:in `call'
+  railties (3.2.3) lib/rails/application.rb:220:in `call'
+  railties (3.2.3) lib/rails/railtie/configurable.rb:30:in `method_missing'
+  rack (1.4.1) lib/rack/lint.rb:48:in `_call'
+  rack (1.4.1) lib/rack/lint.rb:36:in `call'
+  rack (1.4.1) lib/rack/showexceptions.rb:24:in `call'
+  rack (1.4.1) lib/rack/commonlogger.rb:20:in `call'
+  rack (1.4.1) lib/rack/chunked.rb:43:in `call'
+  rack (1.4.1) lib/rack/content_length.rb:14:in `call'
+  rack (1.4.1) lib/rack/handler/webrick.rb:59:in `service'
+  /Users/danieljeng1/.rvm/rubies/ruby-1.9.3-p194/lib/ruby/1.9.1/webrick/httpserver.rb:138:in `service'
+  /Users/danieljeng1/.rvm/rubies/ruby-1.9.3-p194/lib/ruby/1.9.1/webrick/httpserver.rb:94:in `run'
+  /Users/danieljeng1/.rvm/rubies/ruby-1.9.3-p194/lib/ruby/1.9.1/webrick/server.rb:191:in `block in start_thread'
+
+
+  Rendered /Users/danieljeng1/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.3/lib/action_dispatch/middleware/templates/rescues/_trace.erb (2.4ms)
+  Rendered /Users/danieljeng1/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.3/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.2ms)
+  Rendered /Users/danieljeng1/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.3/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (11.1ms)
+
+
+Started GET "/assets/rails.png" for 127.0.0.1 at 2012-06-07 15:41:27 -0400
+
+NoMethodError (undefined method `each' for "Hello, World!":String):
+  rack (1.4.1) lib/rack/etag.rb:55:in `digest_body'
+  rack (1.4.1) lib/rack/etag.rb:26:in `call'
+  rack (1.4.1) lib/rack/conditionalget.rb:25:in `call'
+  actionpack (3.2.3) lib/action_dispatch/middleware/head.rb:14:in `call'
+  actionpack (3.2.3) lib/action_dispatch/middleware/params_parser.rb:21:in `call'
+  actionpack (3.2.3) lib/action_dispatch/middleware/flash.rb:242:in `call'
+  rack (1.4.1) lib/rack/session/abstract/id.rb:205:in `context'
+  rack (1.4.1) lib/rack/session/abstract/id.rb:200:in `call'
+  actionpack (3.2.3) lib/action_dispatch/middleware/cookies.rb:338:in `call'
+  activerecord (3.2.3) lib/active_record/query_cache.rb:64:in `call'
+  activerecord (3.2.3) lib/active_record/connection_adapters/abstract/connection_pool.rb:467:in `call'
+  actionpack (3.2.3) lib/action_dispatch/middleware/callbacks.rb:28:in `block in call'
+  activesupport (3.2.3) lib/active_support/callbacks.rb:405:in `_run__3652926980811741678__call__1719757180940118783__callbacks'
+  activesupport (3.2.3) lib/active_support/callbacks.rb:405:in `__run_callback'
+  activesupport (3.2.3) lib/active_support/callbacks.rb:385:in `_run_call_callbacks'
+  activesupport (3.2.3) lib/active_support/callbacks.rb:81:in `run_callbacks'
+  actionpack (3.2.3) lib/action_dispatch/middleware/callbacks.rb:27:in `call'
+  actionpack (3.2.3) lib/action_dispatch/middleware/reloader.rb:65:in `call'
+  actionpack (3.2.3) lib/action_dispatch/middleware/remote_ip.rb:31:in `call'
+  actionpack (3.2.3) lib/action_dispatch/middleware/debug_exceptions.rb:16:in `call'
+  actionpack (3.2.3) lib/action_dispatch/middleware/show_exceptions.rb:56:in `call'
+  railties (3.2.3) lib/rails/rack/logger.rb:26:in `call_app'
+  railties (3.2.3) lib/rails/rack/logger.rb:16:in `call'
+  actionpack (3.2.3) lib/action_dispatch/middleware/request_id.rb:22:in `call'
+  rack (1.4.1) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.4.1) lib/rack/runtime.rb:17:in `call'
+  activesupport (3.2.3) lib/active_support/cache/strategy/local_cache.rb:72:in `call'
+  rack (1.4.1) lib/rack/lock.rb:15:in `call'
+  actionpack (3.2.3) lib/action_dispatch/middleware/static.rb:62:in `call'
+  railties (3.2.3) lib/rails/engine.rb:479:in `call'
+  railties (3.2.3) lib/rails/application.rb:220:in `call'
+  railties (3.2.3) lib/rails/railtie/configurable.rb:30:in `method_missing'
+  rack (1.4.1) lib/rack/lint.rb:48:in `_call'
+  rack (1.4.1) lib/rack/lint.rb:36:in `call'
+  rack (1.4.1) lib/rack/showexceptions.rb:24:in `call'
+  rack (1.4.1) lib/rack/commonlogger.rb:20:in `call'
+  rack (1.4.1) lib/rack/chunked.rb:43:in `call'
+  rack (1.4.1) lib/rack/content_length.rb:14:in `call'
+  rack (1.4.1) lib/rack/handler/webrick.rb:59:in `service'
+  /Users/danieljeng1/.rvm/rubies/ruby-1.9.3-p194/lib/ruby/1.9.1/webrick/httpserver.rb:138:in `service'
+  /Users/danieljeng1/.rvm/rubies/ruby-1.9.3-p194/lib/ruby/1.9.1/webrick/httpserver.rb:94:in `run'
+  /Users/danieljeng1/.rvm/rubies/ruby-1.9.3-p194/lib/ruby/1.9.1/webrick/server.rb:191:in `block in start_thread'
+
+
+  Rendered /Users/danieljeng1/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.3/lib/action_dispatch/middleware/templates/rescues/_trace.erb (2.5ms)
+  Rendered /Users/danieljeng1/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.3/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.3ms)
+  Rendered /Users/danieljeng1/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.3/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (12.5ms)
+
+
+Started GET "/assets/rails.png" for 127.0.0.1 at 2012-06-07 15:44:32 -0400
+
+NoMethodError (undefined method `each' for "Hello, World!":String):
+  rack (1.4.1) lib/rack/etag.rb:55:in `digest_body'
+  rack (1.4.1) lib/rack/etag.rb:26:in `call'
+  rack (1.4.1) lib/rack/conditionalget.rb:25:in `call'
+  actionpack (3.2.3) lib/action_dispatch/middleware/head.rb:14:in `call'
+  actionpack (3.2.3) lib/action_dispatch/middleware/params_parser.rb:21:in `call'
+  actionpack (3.2.3) lib/action_dispatch/middleware/flash.rb:242:in `call'
+  rack (1.4.1) lib/rack/session/abstract/id.rb:205:in `context'
+  rack (1.4.1) lib/rack/session/abstract/id.rb:200:in `call'
+  actionpack (3.2.3) lib/action_dispatch/middleware/cookies.rb:338:in `call'
+  activerecord (3.2.3) lib/active_record/query_cache.rb:64:in `call'
+  activerecord (3.2.3) lib/active_record/connection_adapters/abstract/connection_pool.rb:467:in `call'
+  actionpack (3.2.3) lib/action_dispatch/middleware/callbacks.rb:28:in `block in call'
+  activesupport (3.2.3) lib/active_support/callbacks.rb:405:in `_run__3882626264491606072__call__3701821409108189985__callbacks'
+  activesupport (3.2.3) lib/active_support/callbacks.rb:405:in `__run_callback'
+  activesupport (3.2.3) lib/active_support/callbacks.rb:385:in `_run_call_callbacks'
+  activesupport (3.2.3) lib/active_support/callbacks.rb:81:in `run_callbacks'
+  actionpack (3.2.3) lib/action_dispatch/middleware/callbacks.rb:27:in `call'
+  actionpack (3.2.3) lib/action_dispatch/middleware/reloader.rb:65:in `call'
+  actionpack (3.2.3) lib/action_dispatch/middleware/remote_ip.rb:31:in `call'
+  actionpack (3.2.3) lib/action_dispatch/middleware/debug_exceptions.rb:16:in `call'
+  actionpack (3.2.3) lib/action_dispatch/middleware/show_exceptions.rb:56:in `call'
+  railties (3.2.3) lib/rails/rack/logger.rb:26:in `call_app'
+  railties (3.2.3) lib/rails/rack/logger.rb:16:in `call'
+  actionpack (3.2.3) lib/action_dispatch/middleware/request_id.rb:22:in `call'
+  rack (1.4.1) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.4.1) lib/rack/runtime.rb:17:in `call'
+  activesupport (3.2.3) lib/active_support/cache/strategy/local_cache.rb:72:in `call'
+  rack (1.4.1) lib/rack/lock.rb:15:in `call'
+  actionpack (3.2.3) lib/action_dispatch/middleware/static.rb:62:in `call'
+  railties (3.2.3) lib/rails/engine.rb:479:in `call'
+  railties (3.2.3) lib/rails/application.rb:220:in `call'
+  rack (1.4.1) lib/rack/content_length.rb:14:in `call'
+  railties (3.2.3) lib/rails/rack/log_tailer.rb:14:in `call'
+  rack (1.4.1) lib/rack/handler/webrick.rb:59:in `service'
+  /Users/danieljeng1/.rvm/rubies/ruby-1.9.3-p194/lib/ruby/1.9.1/webrick/httpserver.rb:138:in `service'
+  /Users/danieljeng1/.rvm/rubies/ruby-1.9.3-p194/lib/ruby/1.9.1/webrick/httpserver.rb:94:in `run'
+  /Users/danieljeng1/.rvm/rubies/ruby-1.9.3-p194/lib/ruby/1.9.1/webrick/server.rb:191:in `block in start_thread'
+
+
+  Rendered /Users/danieljeng1/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.3/lib/action_dispatch/middleware/templates/rescues/_trace.erb (2.9ms)
+  Rendered /Users/danieljeng1/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.3/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (22.5ms)
+  Rendered /Users/danieljeng1/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.3/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (36.3ms)
+
+
+Started GET "/assets/rails.png" for 127.0.0.1 at 2012-06-07 15:45:29 -0400
+
+
+Started GET "/assets/rails.png" for 127.0.0.1 at 2012-06-07 15:45:32 -0400
+
+
+Started GET "/assets/rails.png" for 127.0.0.1 at 2012-06-07 15:45:35 -0400
+
+
+Started GET "/assets/rails.png" for 127.0.0.1 at 2012-06-07 15:45:36 -0400
+
+
+Started GET "/assets/rails.png" for 127.0.0.1 at 2012-06-07 15:47:09 -0400
+
+NoMethodError (undefined method `[]=' for nil:NilClass):
+  actionpack (3.2.3) lib/action_dispatch/middleware/best_standards_support.rb:18:in `call'
+  rack (1.4.1) lib/rack/etag.rb:23:in `call'
+  rack (1.4.1) lib/rack/conditionalget.rb:25:in `call'
+  actionpack (3.2.3) lib/action_dispatch/middleware/head.rb:14:in `call'
+  actionpack (3.2.3) lib/action_dispatch/middleware/params_parser.rb:21:in `call'
+  actionpack (3.2.3) lib/action_dispatch/middleware/flash.rb:242:in `call'
+  rack (1.4.1) lib/rack/session/abstract/id.rb:205:in `context'
+  rack (1.4.1) lib/rack/session/abstract/id.rb:200:in `call'
+  actionpack (3.2.3) lib/action_dispatch/middleware/cookies.rb:338:in `call'
+  activerecord (3.2.3) lib/active_record/query_cache.rb:64:in `call'
+  activerecord (3.2.3) lib/active_record/connection_adapters/abstract/connection_pool.rb:467:in `call'
+  actionpack (3.2.3) lib/action_dispatch/middleware/callbacks.rb:28:in `block in call'
+  activesupport (3.2.3) lib/active_support/callbacks.rb:405:in `_run__4398395430612938220__call__1065940694918441420__callbacks'
+  activesupport (3.2.3) lib/active_support/callbacks.rb:405:in `__run_callback'
+  activesupport (3.2.3) lib/active_support/callbacks.rb:385:in `_run_call_callbacks'
+  activesupport (3.2.3) lib/active_support/callbacks.rb:81:in `run_callbacks'
+  actionpack (3.2.3) lib/action_dispatch/middleware/callbacks.rb:27:in `call'
+  actionpack (3.2.3) lib/action_dispatch/middleware/reloader.rb:65:in `call'
+  actionpack (3.2.3) lib/action_dispatch/middleware/remote_ip.rb:31:in `call'
+  actionpack (3.2.3) lib/action_dispatch/middleware/debug_exceptions.rb:16:in `call'
+  actionpack (3.2.3) lib/action_dispatch/middleware/show_exceptions.rb:56:in `call'
+  railties (3.2.3) lib/rails/rack/logger.rb:26:in `call_app'
+  railties (3.2.3) lib/rails/rack/logger.rb:16:in `call'
+  actionpack (3.2.3) lib/action_dispatch/middleware/request_id.rb:22:in `call'
+  rack (1.4.1) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.4.1) lib/rack/runtime.rb:17:in `call'
+  activesupport (3.2.3) lib/active_support/cache/strategy/local_cache.rb:72:in `call'
+  rack (1.4.1) lib/rack/lock.rb:15:in `call'
+  actionpack (3.2.3) lib/action_dispatch/middleware/static.rb:62:in `call'
+  railties (3.2.3) lib/rails/engine.rb:479:in `call'
+  railties (3.2.3) lib/rails/application.rb:220:in `call'
+  rack (1.4.1) lib/rack/content_length.rb:14:in `call'
+  railties (3.2.3) lib/rails/rack/log_tailer.rb:14:in `call'
+  rack (1.4.1) lib/rack/handler/webrick.rb:59:in `service'
+  /Users/danieljeng1/.rvm/rubies/ruby-1.9.3-p194/lib/ruby/1.9.1/webrick/httpserver.rb:138:in `service'
+  /Users/danieljeng1/.rvm/rubies/ruby-1.9.3-p194/lib/ruby/1.9.1/webrick/httpserver.rb:94:in `run'
+  /Users/danieljeng1/.rvm/rubies/ruby-1.9.3-p194/lib/ruby/1.9.1/webrick/server.rb:191:in `block in start_thread'
+
+
+  Rendered /Users/danieljeng1/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.3/lib/action_dispatch/middleware/templates/rescues/_trace.erb (2.6ms)
+  Rendered /Users/danieljeng1/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.3/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (40.2ms)
+  Rendered /Users/danieljeng1/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.3/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (64.0ms)
+
+
+Started GET "/assets/rails.png" for 127.0.0.1 at 2012-06-07 15:47:37 -0400
+
+NoMethodError (undefined method `each' for "Hello, World!":String):
+  rack (1.4.1) lib/rack/etag.rb:55:in `digest_body'
+  rack (1.4.1) lib/rack/etag.rb:26:in `call'
+  rack (1.4.1) lib/rack/conditionalget.rb:25:in `call'
+  actionpack (3.2.3) lib/action_dispatch/middleware/head.rb:14:in `call'
+  actionpack (3.2.3) lib/action_dispatch/middleware/params_parser.rb:21:in `call'
+  actionpack (3.2.3) lib/action_dispatch/middleware/flash.rb:242:in `call'
+  rack (1.4.1) lib/rack/session/abstract/id.rb:205:in `context'
+  rack (1.4.1) lib/rack/session/abstract/id.rb:200:in `call'
+  actionpack (3.2.3) lib/action_dispatch/middleware/cookies.rb:338:in `call'
+  activerecord (3.2.3) lib/active_record/query_cache.rb:64:in `call'
+  activerecord (3.2.3) lib/active_record/connection_adapters/abstract/connection_pool.rb:467:in `call'
+  actionpack (3.2.3) lib/action_dispatch/middleware/callbacks.rb:28:in `block in call'
+  activesupport (3.2.3) lib/active_support/callbacks.rb:405:in `_run__1086678382608427198__call__132156856401592475__callbacks'
+  activesupport (3.2.3) lib/active_support/callbacks.rb:405:in `__run_callback'
+  activesupport (3.2.3) lib/active_support/callbacks.rb:385:in `_run_call_callbacks'
+  activesupport (3.2.3) lib/active_support/callbacks.rb:81:in `run_callbacks'
+  actionpack (3.2.3) lib/action_dispatch/middleware/callbacks.rb:27:in `call'
+  actionpack (3.2.3) lib/action_dispatch/middleware/reloader.rb:65:in `call'
+  actionpack (3.2.3) lib/action_dispatch/middleware/remote_ip.rb:31:in `call'
+  actionpack (3.2.3) lib/action_dispatch/middleware/debug_exceptions.rb:16:in `call'
+  actionpack (3.2.3) lib/action_dispatch/middleware/show_exceptions.rb:56:in `call'
+  railties (3.2.3) lib/rails/rack/logger.rb:26:in `call_app'
+  railties (3.2.3) lib/rails/rack/logger.rb:16:in `call'
+  actionpack (3.2.3) lib/action_dispatch/middleware/request_id.rb:22:in `call'
+  rack (1.4.1) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.4.1) lib/rack/runtime.rb:17:in `call'
+  activesupport (3.2.3) lib/active_support/cache/strategy/local_cache.rb:72:in `call'
+  rack (1.4.1) lib/rack/lock.rb:15:in `call'
+  actionpack (3.2.3) lib/action_dispatch/middleware/static.rb:62:in `call'
+  railties (3.2.3) lib/rails/engine.rb:479:in `call'
+  railties (3.2.3) lib/rails/application.rb:220:in `call'
+  rack (1.4.1) lib/rack/content_length.rb:14:in `call'
+  railties (3.2.3) lib/rails/rack/log_tailer.rb:14:in `call'
+  rack (1.4.1) lib/rack/handler/webrick.rb:59:in `service'
+  /Users/danieljeng1/.rvm/rubies/ruby-1.9.3-p194/lib/ruby/1.9.1/webrick/httpserver.rb:138:in `service'
+  /Users/danieljeng1/.rvm/rubies/ruby-1.9.3-p194/lib/ruby/1.9.1/webrick/httpserver.rb:94:in `run'
+  /Users/danieljeng1/.rvm/rubies/ruby-1.9.3-p194/lib/ruby/1.9.1/webrick/server.rb:191:in `block in start_thread'
+
+
+  Rendered /Users/danieljeng1/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.3/lib/action_dispatch/middleware/templates/rescues/_trace.erb (2.3ms)
+  Rendered /Users/danieljeng1/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.3/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (2.8ms)
+  Rendered /Users/danieljeng1/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.3/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (14.3ms)
+
+
+Started GET "/assets/rails.png" for 127.0.0.1 at 2012-06-07 15:50:53 -0400
+
+
+Started GET "/assets/rails.png" for 127.0.0.1 at 2012-06-07 15:51:01 -0400
+
+
+Started GET "/assets/rails.png" for 127.0.0.1 at 2012-06-07 15:51:03 -0400
+
+
+Started GET "/hello" for 127.0.0.1 at 2012-06-07 15:51:07 -0400
+
+
+Started GET "/a" for 127.0.0.1 at 2012-06-07 15:51:11 -0400
+
+
+Started GET "/b" for 127.0.0.1 at 2012-06-07 15:51:13 -0400
+
+
+Started GET "/assets/rails.png" for 127.0.0.1 at 2012-06-07 16:11:50 -0400
+Served asset /rails.png - 200 OK (77ms)
+
+
+Started GET "/say/hello" for 127.0.0.1 at 2012-06-07 16:11:54 -0400
+Processing by SayController#hello as HTML
+  Rendered say/hello.html.erb within layouts/application (2.7ms)
+Completed 200 OK in 168ms (Views: 166.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-06-07 16:11:54 -0400
+Served asset /application.css - 304 Not Modified (36ms)
+
+
+Started GET "/assets/say.css?body=1" for 127.0.0.1 at 2012-06-07 16:11:54 -0400
+Served asset /say.css - 304 Not Modified (2ms)
+
+
+Started GET "/assets/say.js?body=1" for 127.0.0.1 at 2012-06-07 16:11:54 -0400
+Served asset /say.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-06-07 16:11:54 -0400
+Served asset /jquery.js - 304 Not Modified (3ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-06-07 16:11:54 -0400
+Served asset /application.js - 304 Not Modified (6ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-06-07 16:11:54 -0400
+Served asset /jquery_ujs.js - 304 Not Modified (2ms)
+
+
+Started GET "/say/public" for 127.0.0.1 at 2012-06-07 16:12:04 -0400
+Processing by SayController#public as HTML
+Completed 500 Internal Server Error in 89ms
+
+ActionView::MissingTemplate (Missing template say/less-details, application/less-details with {:locale=>[:en], :formats=>[:html], :handlers=>[:erb, :builder, :coffee]}. Searched in:
+  * "/Users/danieljeng1/rails/demo/app/views"
+):
+  app/controllers/say_controller.rb:9:in `public'
+
+
+  Rendered /Users/danieljeng1/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.3/lib/action_dispatch/middleware/templates/rescues/missing_template.erb within rescues/layout (0.5ms)
+
+
+Started GET "/say/public" for 127.0.0.1 at 2012-06-07 16:13:46 -0400
+Processing by SayController#public as HTML
+Completed 500 Internal Server Error in 49ms
+
+ActionView::MissingTemplate (Missing template say/less-details, application/less-details with {:locale=>[:en], :formats=>[:html], :handlers=>[:erb, :builder, :coffee]}. Searched in:
+  * "/Users/danieljeng1/rails/demo/app/views"
+):
+  app/controllers/say_controller.rb:9:in `public'
+
+
+  Rendered /Users/danieljeng1/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.3/lib/action_dispatch/middleware/templates/rescues/missing_template.erb within rescues/layout (3.0ms)
+
+
+Started GET "/say/public" for 127.0.0.1 at 2012-06-07 16:16:14 -0400
+Processing by SayController#public as HTML
+  Rendered say/lessdetails.html.erb within layouts/application (2.4ms)
+Completed 200 OK in 30ms (Views: 29.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-06-07 16:16:15 -0400
+Served asset /application.css - 304 Not Modified (2ms)
+
+
+Started GET "/assets/say.css?body=1" for 127.0.0.1 at 2012-06-07 16:16:15 -0400
+Served asset /say.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-06-07 16:16:15 -0400
+Served asset /application.js - 304 Not Modified (7ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-06-07 16:16:15 -0400
+Served asset /jquery_ujs.js - 304 Not Modified (2ms)
+
+
+Started GET "/assets/say.js?body=1" for 127.0.0.1 at 2012-06-07 16:16:15 -0400
+Served asset /say.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-06-07 16:16:15 -0400
+Served asset /jquery.js - 304 Not Modified (3ms)
+
+
+Started GET "/oauth/authorize" for 127.0.0.1 at 2012-06-07 16:18:12 -0400
+RO2S: Authorization request with invalid redirect_uri:  Missing redirect URL
+
+
+Started GET "/oauth/authorize" for 127.0.0.1 at 2012-06-07 16:18:16 -0400
+RO2S: Authorization request with invalid redirect_uri:  Missing redirect URL
+
+
+Started GET "/assets/rails.png" for 127.0.0.1 at 2012-06-07 16:21:57 -0400
+Served asset /rails.png - 304 Not Modified (27ms)
+
+
+Started GET "/oauth/authorize?oauth_callback=http%3A%2F%2Fgoogle.com" for 127.0.0.1 at 2012-06-07 16:22:25 -0400
+RO2S: Authorization request with invalid redirect_uri:  Missing redirect URL
+
+
+Started GET "/oauth/authorize?redirect_uri=a" for 127.0.0.1 at 2012-06-07 16:31:01 -0400
+RO2S: Authorization request with invalid redirect_uri: a Redirect URL must be absolute URL
+
+
+Started GET "/oauth/authorize?redirect_uri=http%3A%2F%2Fwww.google.com" for 127.0.0.1 at 2012-06-07 16:31:48 -0400
+RO2S: Authorization request error invalid_client: Client ID and client secret do not match.
+
+
+Started POST "/oauth/access_token" for 127.0.0.1 at 2012-06-07 16:41:36 -0400
+
+NameError (uninitialized constant Demo::Application::User):
+  config/application.rb:63:in `block (2 levels) in <class:Application>'
+
+
+  Rendered /Users/danieljeng1/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.3/lib/action_dispatch/middleware/templates/rescues/_trace.erb (2.4ms)
+  Rendered /Users/danieljeng1/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.3/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (3.9ms)
+  Rendered /Users/danieljeng1/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.3/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (18.4ms)
+
+
+Started POST "/oauth/access_token" for 127.0.0.1 at 2012-06-07 17:12:18 -0400
+
+RuntimeError (Called id for nil, which would mistakenly be 4 -- if you really wanted the id of nil, use object_id):
+  config/application.rb:67:in `block (2 levels) in <class:Application>'
+
+
+  Rendered /Users/danieljeng1/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.3/lib/action_dispatch/middleware/templates/rescues/_trace.erb (2.3ms)
+  Rendered /Users/danieljeng1/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.3/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (16.2ms)
+  Rendered /Users/danieljeng1/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.3/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (30.1ms)
+
+
+Started POST "/oauth/access_token" for 127.0.0.1 at 2012-06-07 17:15:24 -0400
+
+RuntimeError (Called id for nil, which would mistakenly be 4 -- if you really wanted the id of nil, use object_id):
+  config/application.rb:67:in `block (2 levels) in <class:Application>'
+
+
+  Rendered /Users/danieljeng1/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.3/lib/action_dispatch/middleware/templates/rescues/_trace.erb (2.2ms)
+  Rendered /Users/danieljeng1/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.3/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.1ms)
+  Rendered /Users/danieljeng1/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.3/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (10.4ms)
+
+
+Started POST "/oauth/access_token" for 127.0.0.1 at 2012-06-07 17:16:40 -0400
+RO2S: Access token request error invalid_client: Client ID and client secret do not match.
+
+
+Started POST "/oauth/access_token" for 127.0.0.1 at 2012-06-07 17:17:00 -0400
+RO2S: Access token request error invalid_scope: The requested scope is not supported.
+
+
+Started POST "/oauth/access_token" for 127.0.0.1 at 2012-06-07 17:17:20 -0400
+RO2S: Access token request error invalid_scope: The requested scope is not supported.
+
+
+Started POST "/oauth/access_token" for 127.0.0.1 at 2012-06-07 17:17:30 -0400
+
+RuntimeError (Called id for nil, which would mistakenly be 4 -- if you really wanted the id of nil, use object_id):
+  config/application.rb:67:in `block (2 levels) in <class:Application>'
+
+
+  Rendered /Users/danieljeng1/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.3/lib/action_dispatch/middleware/templates/rescues/_trace.erb (2.3ms)
+  Rendered /Users/danieljeng1/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.3/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.1ms)
+  Rendered /Users/danieljeng1/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.3/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (10.5ms)
+
+
+Started POST "/oauth/access_token" for 127.0.0.1 at 2012-06-07 17:18:25 -0400
+RO2S: Access token a4fb291aec81a535a99bb56865388fd97d05794687d8ddf8bd6d0c8ac29c4523 granted to client jengalicious
+, identity abcd
+
+
+Started POST "/oauth/access_token" for 127.0.0.1 at 2012-06-07 17:20:58 -0400
+RO2S: Access token request error invalid_grant: Missing username/password
+
+
+Started GET "/assets/rails.png" for 127.0.0.1 at 2012-06-07 17:26:55 -0400
+Served asset /rails.png - 304 Not Modified (40ms)
+
+
+Started GET "/oauth/authorize?redirect_uri=http%3A%2F%2Fwww.google.com" for 127.0.0.1 at 2012-06-07 17:27:13 -0400
+RO2S: Authorization request error invalid_client: Client ID and client secret do not match.
+
+
+Started HEAD "/oauth/authorize?redirect_uri=http%3A%2F%2Fwww.google.com" for 127.0.0.1 at 2012-06-07 17:28:11 -0400
+RO2S: Authorization request error invalid_client: Client ID and client secret do not match.
+
+
+Started HEAD "/oauth/authorize?redirect_uri=http%3A%2F%2Fwww.google.com" for 127.0.0.1 at 2012-06-07 17:33:00 -0400
+RO2S: Authorization request error invalid_client: Client ID and client secret do not match.
+
+
+Started GET "/oauth/authorize?redirect_uri=http%3A%2F%2Fwww.google.com'" for 127.0.0.1 at 2012-06-07 17:33:14 -0400
+RO2S: Authorization request with invalid redirect_uri: http://www.google.com' Redirect URL looks fishy to me
+
+
+Started GET "/oauth/authorize?redirect_uri=http%3A%2F%2Fwww.google.com" for 127.0.0.1 at 2012-06-07 17:33:16 -0400
+RO2S: Authorization request error invalid_client: Client ID and client secret do not match.
+
+
+Started GET "/oauth/authorize?redirect_uri=http%3A%2F%2Fwww.google.com" for 127.0.0.1 at 2012-06-07 17:34:50 -0400
+RO2S: Authorization request error invalid_client: Client ID and client secret do not match.
+
+
+Started GET "/oauth/authorize" for 127.0.0.1 at 2012-06-07 17:35:09 -0400
+RO2S: Authorization request with invalid redirect_uri:  Missing redirect URL
+
+
+Started GET "/oauth/grant" for 127.0.0.1 at 2012-06-07 17:35:19 -0400
+Processing by OauthController#grant as HTML
+Completed 500 Internal Server Error in 2ms
+
+NameError (undefined local variable or method `current_user' for #<OauthController:0x000001014eedf8>):
+  app/controllers/oauth_controller.rb:13:in `grant'
+
+
+  Rendered /Users/danieljeng1/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.3/lib/action_dispatch/middleware/templates/rescues/_trace.erb (3.0ms)
+  Rendered /Users/danieljeng1/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.3/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.1ms)
+  Rendered /Users/danieljeng1/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.3/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (16.1ms)
+
+
+Started GET "/oauth/grant?current_user=hubdaba" for 127.0.0.1 at 2012-06-07 17:35:36 -0400
+Processing by OauthController#grant as HTML
+  Parameters: {"current_user"=>"hubdaba"}
+Completed 500 Internal Server Error in 3ms
+
+NameError (undefined local variable or method `current_user' for #<OauthController:0x000001013866a0>):
+  app/controllers/oauth_controller.rb:13:in `grant'
+
+
+  Rendered /Users/danieljeng1/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.3/lib/action_dispatch/middleware/templates/rescues/_trace.erb (3.3ms)
+  Rendered /Users/danieljeng1/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.3/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.2ms)
+  Rendered /Users/danieljeng1/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.3/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (12.2ms)
+
+
+Started GET "/oauth/authorize" for 127.0.0.1 at 2012-06-07 17:36:02 -0400
+RO2S: Authorization request with invalid redirect_uri:  Missing redirect URL
+
+
+Started GET "/oauth/authorize" for 127.0.0.1 at 2012-06-07 17:36:10 -0400
+RO2S: Authorization request with invalid redirect_uri:  Missing redirect URL
+
+
+Started GET "/oauth/authorize" for 127.0.0.1 at 2012-06-07 17:36:10 -0400
+RO2S: Authorization request with invalid redirect_uri:  Missing redirect URL
+
+
+Started GET "/oauth/authorize" for 127.0.0.1 at 2012-06-07 17:36:11 -0400
+RO2S: Authorization request with invalid redirect_uri:  Missing redirect URL
+
+
+Started GET "/oauth/authorize" for 127.0.0.1 at 2012-06-07 17:36:11 -0400
+RO2S: Authorization request with invalid redirect_uri:  Missing redirect URL
+
+
+Started GET "/oauth/authorize" for 127.0.0.1 at 2012-06-07 17:36:12 -0400
+RO2S: Authorization request with invalid redirect_uri:  Missing redirect URL
+
+
+Started GET "/oauth/authorize" for 127.0.0.1 at 2012-06-07 17:36:12 -0400
+RO2S: Authorization request with invalid redirect_uri:  Missing redirect URL
+
+
+Started GET "/oauth/authorize?redirect_uri=http%3A%2F%2Fwww.google.com" for 127.0.0.1 at 2012-06-07 17:36:59 -0400
+RO2S: Authorization request error invalid_client: Client ID and client secret do not match.
+
+
+Started GET "/oauth/authorize?redirect_uri=http%3A%2F%2Fwww.google.com&client_id=4fd1111a503dd4377e000001&client_secret=bf4b683ccc886e115bfadff97c2c00b403390f0e6105aa0f5a37c770e070d8c2" for 127.0.0.1 at 2012-06-07 17:41:58 -0400
+RO2S: Authorization request error redirect_uri_mismatch: Must use the same redirect URI you registered with us.
+
+
+Started GET "/assets/rails.png" for 127.0.0.1 at 2012-06-07 17:42:34 -0400
+Served asset /rails.png - 304 Not Modified (50ms)
+
+
+Started GET "/oauth/authorize" for 127.0.0.1 at 2012-06-07 17:42:40 -0400
+RO2S: Authorization request with invalid redirect_uri:  Missing redirect URL
+
+
+Started GET "/assets/rails.png" for 127.0.0.1 at 2012-06-07 17:43:18 -0400
+Served asset /rails.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/rails.png" for 127.0.0.1 at 2012-06-07 17:43:26 -0400
+Served asset /rails.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/rails.png" for 127.0.0.1 at 2012-06-07 17:43:41 -0400
+Served asset /rails.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/rails.png" for 127.0.0.1 at 2012-06-07 17:43:56 -0400
+Served asset /rails.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/rails.png" for 127.0.0.1 at 2012-06-07 17:43:57 -0400
+Served asset /rails.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/rails.png" for 127.0.0.1 at 2012-06-07 17:44:02 -0400
+Served asset /rails.png - 304 Not Modified (0ms)
+
+
+Started GET "/oauth/authorize?redirect_uri=http%3A%2F%2Fwww.google.com&client_id=4fd1111a503dd4377e000001&client_secret=bf4b683ccc886e115bfadff97c2c00b403390f0e6105aa0f5a37c770e070d8c2" for 127.0.0.1 at 2012-06-07 17:44:08 -0400
+RO2S: Authorization request error redirect_uri_mismatch: Must use the same redirect URI you registered with us.
+
+
+Started GET "/oauth/authorize?redirect_uri=http%3A%2F%2Fwww.squishymushy.com&client_id=4fd1111a503dd4377e000001&client_secret=bf4b683ccc886e115bfadff97c2c00b403390f0e6105aa0f5a37c770e070d8c2" for 127.0.0.1 at 2012-06-07 17:44:20 -0400
+RO2S: Authorization request error redirect_uri_mismatch: Must use the same redirect URI you registered with us.
+
+
+Started GET "/say/bye" for 127.0.0.1 at 2012-06-08 10:50:31 -0400
+
+ArgumentError (wrong number of arguments (0 for 1..3)):
+  app/controllers/say_controller.rb:1:in `initialize'
+  app/controllers/say_controller.rb:1:in `open'
+  app/controllers/say_controller.rb:1:in `<top (required)>'
+
+
+  Rendered /Users/danieljeng1/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.3/lib/action_dispatch/middleware/templates/rescues/_trace.erb (3.3ms)
+  Rendered /Users/danieljeng1/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.3/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (2.9ms)
+  Rendered /Users/danieljeng1/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.3/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (44.5ms)
+
+
+Started GET "/say/bye" for 127.0.0.1 at 2012-06-08 10:51:22 -0400
+Processing by SayController#bye as HTML
+  Rendered text template (0.0ms)
+Completed 200 OK in 3ms (Views: 2.5ms)
+
+
+Started GET "/say/bye" for 127.0.0.1 at 2012-06-08 10:51:30 -0400
+Processing by SayController#bye as HTML
+  Rendered text template (0.0ms)
+Completed 200 OK in 1ms (Views: 0.9ms)
+
+
+Started GET "/say/bye" for 127.0.0.1 at 2012-06-08 10:51:31 -0400
+Processing by SayController#bye as HTML
+  Rendered text template (0.0ms)
+Completed 200 OK in 0ms (Views: 0.3ms)
+
+
+Started GET "/say/bye" for 127.0.0.1 at 2012-06-08 10:51:32 -0400
+Processing by SayController#bye as HTML
+  Rendered text template (0.0ms)
+Completed 200 OK in 0ms (Views: 0.3ms)
+
+
+Started GET "/say/bye" for 127.0.0.1 at 2012-06-08 10:51:37 -0400
+Processing by SayController#bye as HTML
+  Rendered text template (0.0ms)
+Completed 200 OK in 10ms (Views: 9.3ms)
+
+
+Started GET "/say/bye" for 127.0.0.1 at 2012-06-08 10:51:38 -0400
+Processing by SayController#bye as HTML
+  Rendered text template (0.0ms)
+Completed 200 OK in 0ms (Views: 0.4ms)
+
+
+Started GET "/say/hello" for 127.0.0.1 at 2012-06-08 10:51:41 -0400
+Processing by SayController#hello as HTML
+Completed 500 Internal Server Error in 375ms
+
+OpenURI::HTTPError (500 Internal Server Error ):
+  app/controllers/say_controller.rb:10:in `hello'
+
+
+  Rendered /Users/danieljeng1/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.3/lib/action_dispatch/middleware/templates/rescues/_trace.erb (4.4ms)
+  Rendered /Users/danieljeng1/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.3/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.3ms)
+  Rendered /Users/danieljeng1/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.3/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (20.9ms)
+
+
+Started GET "/say/hello" for 127.0.0.1 at 2012-06-08 10:52:14 -0400
+Processing by SayController#hello as HTML
+Completed 500 Internal Server Error in 40ms
+
+OpenURI::HTTPError (500 Internal Server Error ):
+  app/controllers/say_controller.rb:10:in `hello'
+
+
+  Rendered /Users/danieljeng1/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.3/lib/action_dispatch/middleware/templates/rescues/_trace.erb (3.2ms)
+  Rendered /Users/danieljeng1/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.3/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (2.3ms)
+  Rendered /Users/danieljeng1/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.3/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (13.0ms)
+
+
+Started GET "/say/hello" for 127.0.0.1 at 2012-06-08 10:52:16 -0400
+Processing by SayController#hello as HTML
+Completed 500 Internal Server Error in 42ms
+
+OpenURI::HTTPError (500 Internal Server Error ):
+  app/controllers/say_controller.rb:10:in `hello'
+
+
+  Rendered /Users/danieljeng1/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.3/lib/action_dispatch/middleware/templates/rescues/_trace.erb (3.9ms)
+  Rendered /Users/danieljeng1/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.3/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.1ms)
+  Rendered /Users/danieljeng1/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.3/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (12.7ms)
+
+
+Started GET "/say/hello" for 127.0.0.1 at 2012-06-08 10:52:17 -0400
+Processing by SayController#hello as HTML
+Completed 500 Internal Server Error in 64ms
+
+OpenURI::HTTPError (500 Internal Server Error ):
+  app/controllers/say_controller.rb:10:in `hello'
+
+
+  Rendered /Users/danieljeng1/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.3/lib/action_dispatch/middleware/templates/rescues/_trace.erb (3.3ms)
+  Rendered /Users/danieljeng1/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.3/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.2ms)
+  Rendered /Users/danieljeng1/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.3/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (13.2ms)
+
+
+Started GET "/say/bye?error=redirect_uri_mismatch&error_description=Must+use+the+same+redirect+URI+you+registered+with+us.&state" for 127.0.0.1 at 2012-06-08 10:59:05 -0400
+Processing by SayController#bye as HTML
+  Parameters: {"error"=>"redirect_uri_mismatch", "error_description"=>"Must use the same redirect URI you registered with us.", "state"=>nil}
+  Rendered text template (0.0ms)
+Completed 200 OK in 1ms (Views: 1.0ms)
+
+
+Started GET "/oauth/authorize?client_id=4fd21373503dd44524000001&secret=a8d3f87f47c9cc3602e74007d5e0ad0536848902f64b773b03ae7976830ecae7&redirect_uri=http://localhost:3001/say/bye" for 127.0.0.1 at 2012-06-08 11:01:21 -0400
+RO2S: Authorization request error unsupported_response_type: The requested response type is not supported.
+
+
+Started GET "/say/bye?error=unsupported_response_type&error_description=The+requested+response+type+is+not+supported.&state" for 127.0.0.1 at 2012-06-08 11:01:21 -0400
+Processing by SayController#bye as HTML
+  Parameters: {"error"=>"unsupported_response_type", "error_description"=>"The requested response type is not supported.", "state"=>nil}
+  Rendered text template (0.0ms)
+Completed 200 OK in 0ms (Views: 0.3ms)
+
+
+Started GET "/oauth/authorize?client_id=4fd21373503dd44524000001&secret=a8d3f87f47c9cc3602e74007d5e0ad0536848902f64b773b03ae7976830ecae7&redirect_uri=http://localhost:3001/say/bye" for 127.0.0.1 at 2012-06-08 11:01:32 -0400
+RO2S: Authorization request error unsupported_response_type: The requested response type is not supported.
+
+
+Started GET "/say/bye?error=unsupported_response_type&error_description=The+requested+response+type+is+not+supported.&state" for 127.0.0.1 at 2012-06-08 11:01:32 -0400
+Processing by SayController#bye as HTML
+  Parameters: {"error"=>"unsupported_response_type", "error_description"=>"The requested response type is not supported.", "state"=>nil}
+  Rendered text template (0.0ms)
+Completed 200 OK in 1ms (Views: 0.4ms)
+
+
+Started GET "/oauth/authorize?client_id=4fd21373503dd44524000001&secret=a8d3f87f47c9cc3602e74007d5e0ad0536848902f64b773b03ae7976830ecae7&redirect_uri=http://localhost:3001/say/bye&scope=math" for 127.0.0.1 at 2012-06-08 11:01:42 -0400
+RO2S: Authorization request error unsupported_response_type: The requested response type is not supported.
+
+
+Started GET "/say/bye?error=unsupported_response_type&error_description=The+requested+response+type+is+not+supported.&state" for 127.0.0.1 at 2012-06-08 11:01:42 -0400
+Processing by SayController#bye as HTML
+  Parameters: {"error"=>"unsupported_response_type", "error_description"=>"The requested response type is not supported.", "state"=>nil}
+  Rendered text template (0.0ms)
+Completed 200 OK in 1ms (Views: 0.5ms)
+
+
+Started GET "/oauth/authorize?client_id=4fd21373503dd44524000001&client_secret=a8d3f87f47c9cc3602e74007d5e0ad0536848902f64b773b03ae7976830ecae7&redirect_uri=http://localhost:3001/say/bye" for 127.0.0.1 at 2012-06-08 11:01:48 -0400
+RO2S: Authorization request error unsupported_response_type: The requested response type is not supported.
+
+
+Started GET "/say/bye?error=unsupported_response_type&error_description=The+requested+response+type+is+not+supported.&state" for 127.0.0.1 at 2012-06-08 11:01:48 -0400
+Processing by SayController#bye as HTML
+  Parameters: {"error"=>"unsupported_response_type", "error_description"=>"The requested response type is not supported.", "state"=>nil}
+  Rendered text template (0.0ms)
+Completed 200 OK in 0ms (Views: 0.4ms)
+
+
+Started GET "/oauth/authorize?client_id=4fd21373503dd44524000001&asdfsecret=a8d3f87f47c9cc3602e74007d5e0ad0536848902f64b773b03ae7976830ecae7&redirect_uri=http://localhost:3001/say/bye" for 127.0.0.1 at 2012-06-08 11:01:54 -0400
+RO2S: Authorization request error unsupported_response_type: The requested response type is not supported.
+
+
+Started GET "/say/bye?error=unsupported_response_type&error_description=The+requested+response+type+is+not+supported.&state" for 127.0.0.1 at 2012-06-08 11:01:54 -0400
+Processing by SayController#bye as HTML
+  Parameters: {"error"=>"unsupported_response_type", "error_description"=>"The requested response type is not supported.", "state"=>nil}
+  Rendered text template (0.0ms)
+Completed 200 OK in 0ms (Views: 0.4ms)
+
+
+Started GET "/oauth/authorize?client_id=4fd21373503dd44524000001&secret=a8d3f87f47c9cc3602e74007d5e0ad0536848902f64b773b03ae7976830ecae7&rediresct_uri=http://localhost:3001/say/bye" for 127.0.0.1 at 2012-06-08 11:01:57 -0400
+RO2S: Authorization request with invalid redirect_uri:  Missing redirect URL
+
+
+Started GET "/oauth/authorize?client_id=4fd21373503dd44524000001&secret=a8d3f87f47c9cc3602e74007d5e0ad0536848902f64b773b03ae7976830ecae7&redirect_uri=http://localhost:3001/say/bye" for 127.0.0.1 at 2012-06-08 11:02:17 -0400
+RO2S: Authorization request error unsupported_response_type: The requested response type is not supported.
+
+
+Started GET "/say/bye?error=unsupported_response_type&error_description=The+requested+response+type+is+not+supported.&state" for 127.0.0.1 at 2012-06-08 11:02:17 -0400
+Processing by SayController#bye as HTML
+  Parameters: {"error"=>"unsupported_response_type", "error_description"=>"The requested response type is not supported.", "state"=>nil}
+  Rendered text template (0.0ms)
+Completed 200 OK in 1ms (Views: 0.5ms)
+
+
+Started GET "/oauth/authorize?client_id=4fd21373503dd44524000001&secret=a8d3f87f47c9cc3602e74007d5e0ad0536848902f64b773b03ae7976830ecae7&redirect_uri=http://localhost:3001/say/bye" for 127.0.0.1 at 2012-06-08 11:02:29 -0400
+RO2S: Authorization request error unsupported_response_type: The requested response type is not supported.
+
+
+Started GET "/say/bye?error=unsupported_response_type&error_description=The+requested+response+type+is+not+supported.&state" for 127.0.0.1 at 2012-06-08 11:02:29 -0400
+Processing by SayController#bye as HTML
+  Parameters: {"error"=>"unsupported_response_type", "error_description"=>"The requested response type is not supported.", "state"=>nil}
+  Rendered text template (0.0ms)
+Completed 200 OK in 1ms (Views: 0.4ms)
+
+
+Started GET "/say/bye?error=unsupported_response_type&error_description=The+requested+response+type+is+not+supported.&state" for 127.0.0.1 at 2012-06-08 11:03:00 -0400
+Processing by SayController#bye as HTML
+  Parameters: {"error"=>"unsupported_response_type", "error_description"=>"The requested response type is not supported.", "state"=>nil}
+  Rendered text template (0.0ms)
+Completed 200 OK in 1ms (Views: 0.4ms)
+
+
+Started GET "/oauth/authorize?client_id=4fd21373503dd44524000001&secret=a8d3f87f47c9cc3602e74007d5e0ad0536848902f64b773b03ae7976830ecae7&redirect_uri=http://localhost:3001/say/bye" for 127.0.0.1 at 2012-06-08 11:03:03 -0400
+RO2S: Authorization request error unsupported_response_type: The requested response type is not supported.
+
+
+Started GET "/say/bye?error=unsupported_response_type&error_description=The+requested+response+type+is+not+supported.&state" for 127.0.0.1 at 2012-06-08 11:03:28 -0400
+Processing by SayController#bye as HTML
+  Parameters: {"error"=>"unsupported_response_type", "error_description"=>"The requested response type is not supported.", "state"=>nil}
+  Rendered text template (0.0ms)
+Completed 200 OK in 1ms (Views: 0.4ms)
+
+
+Started GET "/say/bye?error=unsupported_response_type&error_description=The+requested+response+type+is+not+supported.&state" for 127.0.0.1 at 2012-06-08 11:03:45 -0400
+Processing by SayController#bye as HTML
+  Parameters: {"error"=>"unsupported_response_type", "error_description"=>"The requested response type is not supported.", "state"=>nil}
+  Rendered text template (0.0ms)
+Completed 200 OK in 0ms (Views: 0.3ms)
+
+
+Started GET "/say/bye?error=unsupported_response_type&error_description=The+requested+response+type+is+not+supported.&state" for 127.0.0.1 at 2012-06-08 11:10:00 -0400
+Processing by SayController#bye as HTML
+  Parameters: {"error"=>"unsupported_response_type", "error_description"=>"The requested response type is not supported.", "state"=>nil}
+  Rendered text template (0.0ms)
+Completed 200 OK in 0ms (Views: 0.3ms)
+
+
+Started GET "/say/bye?error=access_denied&state" for 127.0.0.1 at 2012-06-08 11:14:05 -0400
+Processing by SayController#bye as HTML
+  Parameters: {"error"=>"access_denied", "state"=>nil}
+  Rendered text template (0.0ms)
+Completed 200 OK in 0ms (Views: 0.3ms)
+
+
+Started GET "/say/bye?code=f067a71c67175464f882679874f9277ed51bb737d512b41d7257c50b10f6caae&scope=math&state" for 127.0.0.1 at 2012-06-08 11:16:45 -0400
+Processing by SayController#bye as HTML
+  Parameters: {"code"=>"f067a71c67175464f882679874f9277ed51bb737d512b41d7257c50b10f6caae", "scope"=>"math", "state"=>nil}
+  Rendered text template (0.0ms)
+Completed 200 OK in 0ms (Views: 0.3ms)
+
+
+Started GET "/say/bye?error=unsupported_response_type&error_description=The+requested+response+type+is+not+supported.&state" for 127.0.0.1 at 2012-06-08 11:28:13 -0400
+Processing by SayController#bye as HTML
+  Parameters: {"error"=>"unsupported_response_type", "error_description"=>"The requested response type is not supported.", "state"=>nil}
+  Rendered text template (0.0ms)
+Completed 200 OK in 3ms (Views: 1.9ms)
+
+
+Started GET "/say/bye?code=2f1f209015fe31b4686a9e8a48a1f9210b082816866ed82b344bd60306ffbc15&scope=math&state" for 127.0.0.1 at 2012-06-08 11:35:28 -0400
+Processing by SayController#bye as HTML
+  Parameters: {"code"=>"2f1f209015fe31b4686a9e8a48a1f9210b082816866ed82b344bd60306ffbc15", "scope"=>"math", "state"=>nil}
+  Rendered text template (0.0ms)
+Completed 200 OK in 4ms (Views: 3.1ms)
+
+
+Started GET "/say/bye" for 127.0.0.1 at 2012-06-08 11:40:41 -0400
+Processing by SayController#bye as HTML
+  Rendered text template (0.0ms)
+Completed 200 OK in 3ms (Views: 2.4ms)
+
+
+Started GET "/say/bye?code=66faf8e8f4cd5d0c108ba4b156e172f0a939841959e3747524ec7659bd1be5ab&scope=math&state" for 127.0.0.1 at 2012-06-08 12:00:07 -0400
+Processing by SayController#bye as HTML
+  Parameters: {"code"=>"66faf8e8f4cd5d0c108ba4b156e172f0a939841959e3747524ec7659bd1be5ab", "scope"=>"math", "state"=>nil}
+  Rendered text template (0.0ms)
+Completed 200 OK in 0ms (Views: 0.4ms)
+
+
+Started GET "/say/bye?code=4332e2d8494d33f0ab663818a596500b59959f28e318e93eb1c95cb05ae39667&scope=math&state" for 127.0.0.1 at 2012-06-08 12:02:16 -0400
+Processing by SayController#bye as HTML
+  Parameters: {"code"=>"4332e2d8494d33f0ab663818a596500b59959f28e318e93eb1c95cb05ae39667", "scope"=>"math", "state"=>nil}
+  Rendered text template (0.0ms)
+Completed 200 OK in 1ms (Views: 0.6ms)
+
+
+Started GET "/say/bye" for 127.0.0.1 at 2012-06-08 12:02:42 -0400
+Processing by SayController#bye as HTML
+  Rendered text template (0.0ms)
+Completed 200 OK in 0ms (Views: 0.4ms)
+
+
+Started GET "/say/bye" for 127.0.0.1 at 2012-06-08 13:36:19 -0400
+Processing by SayController#bye as HTML
+  Rendered text template (0.0ms)
+Completed 200 OK in 11ms (Views: 10.9ms)
+
+
+Started GET "/say/bye" for 127.0.0.1 at 2012-06-08 14:11:35 -0400
+Processing by SayController#bye as HTML
+  Rendered text template (0.0ms)
+Completed 200 OK in 32ms (Views: 30.3ms)
+
+
+Started GET "/say/bye" for 127.0.0.1 at 2012-06-08 14:11:54 -0400
+Processing by SayController#bye as HTML
+  Rendered text template (0.0ms)
+Completed 200 OK in 0ms (Views: 0.3ms)
+
+
+Started GET "/say/bye" for 127.0.0.1 at 2012-06-08 15:00:46 -0400
+Processing by SayController#bye as HTML
+  Rendered text template (0.0ms)
+Completed 200 OK in 0ms (Views: 0.3ms)
+
+
+Started GET "/say/bye" for 127.0.0.1 at 2012-06-08 15:00:49 -0400
+Processing by SayController#bye as HTML
+  Rendered text template (0.0ms)
+Completed 200 OK in 0ms (Views: 0.3ms)
+
+
+Started GET "/say/bye" for 127.0.0.1 at 2012-06-08 17:11:18 -0400
+Processing by SayController#bye as HTML
+  Rendered text template (0.0ms)
+Completed 200 OK in 2ms (Views: 1.2ms)
+
+
+Started GET "/say/bye?error=invalid_client&error_description=Client+ID+and+client+secret+do+not+match.&state" for 127.0.0.1 at 2012-06-11 11:30:19 -0400
+Processing by SayController#bye as HTML
+  Parameters: {"error"=>"invalid_client", "error_description"=>"Client ID and client secret do not match.", "state"=>nil}
+  Rendered text template (0.3ms)
+Completed 200 OK in 2ms (Views: 1.4ms)
+
+
+Started GET "/say/bye" for 127.0.0.1 at 2012-06-12 17:12:58 -0400
+Processing by SayController#bye as HTML
+  Rendered text template (0.0ms)
+Completed 200 OK in 21ms (Views: 20.2ms)
+
+
+Started GET "/say/hello" for 127.0.0.1 at 2012-06-12 17:13:00 -0400
+Processing by SayController#hello as HTML
+Completed 500 Internal Server Error in 76ms
+
+OpenURI::HTTPError (404 Not Found ):
+  app/controllers/say_controller.rb:10:in `hello'
+
+
+  Rendered /Users/danieljeng1/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.3/lib/action_dispatch/middleware/templates/rescues/_trace.erb (3.3ms)
+  Rendered /Users/danieljeng1/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.3/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.1ms)
+  Rendered /Users/danieljeng1/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.3/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (34.9ms)
+
+
+Started GET "/say/hello" for 127.0.0.1 at 2012-06-12 17:13:15 -0400
+Processing by SayController#hello as HTML
+Completed 500 Internal Server Error in 12ms
+
+OpenURI::HTTPError (400 Bad Request ):
+  app/controllers/say_controller.rb:10:in `hello'
+
+
+  Rendered /Users/danieljeng1/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.3/lib/action_dispatch/middleware/templates/rescues/_trace.erb (3.1ms)
+  Rendered /Users/danieljeng1/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.3/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.1ms)
+  Rendered /Users/danieljeng1/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.3/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (11.3ms)
+
+
+Started GET "/say/hello" for 127.0.0.1 at 2012-06-12 17:13:23 -0400
+Processing by SayController#hello as HTML
+Completed 500 Internal Server Error in 13ms
+
+OpenURI::HTTPError (400 Bad Request ):
+  app/controllers/say_controller.rb:10:in `hello'
+
+
+  Rendered /Users/danieljeng1/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.3/lib/action_dispatch/middleware/templates/rescues/_trace.erb (3.5ms)
+  Rendered /Users/danieljeng1/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.3/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.3ms)
+  Rendered /Users/danieljeng1/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.3/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (13.0ms)
+
+
+Started GET "/say/hello" for 127.0.0.1 at 2012-06-12 17:13:43 -0400
+Processing by SayController#hello as HTML
+Completed 500 Internal Server Error in 39ms
+
+OpenURI::HTTPError (404 Not Found ):
+  app/controllers/say_controller.rb:10:in `hello'
+
+
+  Rendered /Users/danieljeng1/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.3/lib/action_dispatch/middleware/templates/rescues/_trace.erb (3.2ms)
+  Rendered /Users/danieljeng1/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.3/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.2ms)
+  Rendered /Users/danieljeng1/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.3/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (11.9ms)
+
+
+Started GET "/say/hello" for 127.0.0.1 at 2012-06-12 17:13:58 -0400
+Processing by SayController#hello as HTML
+Completed 500 Internal Server Error in 60013ms
+
+Timeout::Error (Timeout::Error):
+  app/controllers/say_controller.rb:10:in `hello'
+
+
+  Rendered /Users/danieljeng1/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.3/lib/action_dispatch/middleware/templates/rescues/_trace.erb (4.3ms)
+  Rendered /Users/danieljeng1/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.3/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.2ms)
+  Rendered /Users/danieljeng1/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.3/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (15.5ms)
+
+
+Started GET "/say/bye" for 127.0.0.1 at 2012-06-12 17:14:59 -0400
+Processing by SayController#bye as */*
+  Rendered text template (0.0ms)
+Completed 200 OK in 1ms (Views: 1.0ms)
+
+
+Started GET "/say/bye" for 127.0.0.1 at 2012-06-12 17:14:59 -0400
+Processing by SayController#bye as HTML
+  Rendered text template (0.0ms)
+Completed 200 OK in 1ms (Views: 0.4ms)
+
+
+Started GET "/say/hello" for 127.0.0.1 at 2012-06-12 17:15:25 -0400
+Processing by SayController#hello as HTML
+Completed 500 Internal Server Error in 60013ms
+
+Timeout::Error (Timeout::Error):
+  app/controllers/say_controller.rb:10:in `hello'
+
+
+  Rendered /Users/danieljeng1/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.3/lib/action_dispatch/middleware/templates/rescues/_trace.erb (3.8ms)
+  Rendered /Users/danieljeng1/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.3/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.3ms)
+  Rendered /Users/danieljeng1/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.3/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (13.7ms)
+
+
+Started GET "/say/bye" for 127.0.0.1 at 2012-06-12 17:16:25 -0400
+Processing by SayController#bye as */*
+  Rendered text template (0.0ms)
+Completed 200 OK in 1ms (Views: 0.8ms)
+
+
+Started GET "/say/hello" for 127.0.0.1 at 2012-06-12 17:16:25 -0400
+Processing by SayController#hello as HTML
+  Rendered say/hello.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 217ms (Views: 160.4ms)
+
+
+Started GET "/say/hello" for 127.0.0.1 at 2012-06-12 17:16:26 -0400
+Processing by SayController#hello as HTML
+  Rendered say/hello.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 43ms (Views: 4.7ms)
+
+
+Started GET "/say/hello" for 127.0.0.1 at 2012-06-12 17:16:48 -0400
+Processing by SayController#hello as HTML
+  Rendered say/hello.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 49ms (Views: 4.9ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-06-12 17:16:48 -0400
+Served asset /application.css - 200 OK (3ms)
+
+
+Started GET "/assets/say.css?body=1" for 127.0.0.1 at 2012-06-12 17:16:48 -0400
+Served asset /say.css - 200 OK (1ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-06-12 17:16:48 -0400
+Served asset /jquery_ujs.js - 200 OK (2ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-06-12 17:16:48 -0400
+Served asset /jquery.js - 200 OK (4ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-06-12 17:16:48 -0400
+Served asset /application.js - 200 OK (7ms)
+
+
+Started GET "/assets/say.js?body=1" for 127.0.0.1 at 2012-06-12 17:16:48 -0400
+Served asset /say.js - 200 OK (1ms)
+
+
+Started GET "/say/hello" for 127.0.0.1 at 2012-06-12 17:17:25 -0400
+Processing by SayController#hello as HTML
+Completed 500 Internal Server Error in 2ms
+
+NoMethodError (undefined method `get' for #<SayController:0x00000100f23798>):
+  app/controllers/say_controller.rb:9:in `hello'
+
+
+  Rendered /Users/danieljeng1/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.3/lib/action_dispatch/middleware/templates/rescues/_trace.erb (2.9ms)
+  Rendered /Users/danieljeng1/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.3/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.2ms)
+  Rendered /Users/danieljeng1/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.3/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (11.4ms)
+
+
+Started GET "/say/hello" for 127.0.0.1 at 2012-06-12 17:17:40 -0400
+Processing by SayController#hello as HTML
+Redirected to http://localhost:3000/oauth/authorize?client_id=4fd7b186503dd47e740000da&redirect_uri=http://localhost:3002/say/bye&response_type=token&scope=
+Completed 302 Found in 0ms
+
+
+Started GET "/say/bye" for 127.0.0.1 at 2012-06-12 17:17:47 -0400
+Processing by SayController#bye as HTML
+  Rendered text template (0.0ms)
+Completed 200 OK in 1ms (Views: 0.9ms)
+
+
+Started GET "/say/hello" for 127.0.0.1 at 2012-06-12 17:18:30 -0400
+Processing by SayController#hello as HTML
+Redirected to http://localhost:3000/oauth/authorize?client_id=4fd7b186503dd47e740000da&redirect_uri=http://localhost:3002/say/bye&response_type=token&scope=
+Completed 302 Found in 1ms
+
+
+Started GET "/say/bye" for 127.0.0.1 at 2012-06-12 17:18:34 -0400
+Processing by SayController#bye as HTML
+Completed 500 Internal Server Error in 2ms
+
+NameError (undefined local variable or method `param' for #<SayController:0x00000102c4cfb8>):
+  app/controllers/say_controller.rb:13:in `bye'
+
+
+  Rendered /Users/danieljeng1/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.3/lib/action_dispatch/middleware/templates/rescues/_trace.erb (2.9ms)
+  Rendered /Users/danieljeng1/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.3/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.2ms)
+  Rendered /Users/danieljeng1/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.3/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (11.5ms)
+
+
+Started GET "/say/hello" for 127.0.0.1 at 2012-06-12 17:18:44 -0400
+Processing by SayController#hello as HTML
+Redirected to http://localhost:3000/oauth/authorize?client_id=4fd7b186503dd47e740000da&redirect_uri=http://localhost:3002/say/bye&response_type=token&scope=
+Completed 302 Found in 0ms
+
+
+Started GET "/say/bye" for 127.0.0.1 at 2012-06-12 17:19:00 -0400
+Processing by SayController#bye as HTML
+  Rendered text template (0.0ms)
+Completed 200 OK in 2ms (Views: 1.2ms)
+
+
+Started GET "/say/hello" for 127.0.0.1 at 2012-06-12 17:21:37 -0400
+Processing by SayController#hello as HTML
+Redirected to http://localhost:3000/oauth/authorize?client_id=4fd7b186503dd47e740000da&redirect_uri=http://localhost:3002/say/bye&response_type=token&scope=
+Completed 302 Found in 1ms
+
+
+Started GET "/say/bye" for 127.0.0.1 at 2012-06-12 17:21:39 -0400
+Processing by SayController#bye as HTML
+  Rendered text template (0.0ms)
+Completed 200 OK in 2ms (Views: 1.0ms)
+
+
+Started GET "/say/hello" for 127.0.0.1 at 2012-06-12 17:22:02 -0400
+Processing by SayController#hello as HTML
+Redirected to http://localhost:3000/oauth/authorize?client_id=4fd7b186503dd47e740000da&redirect_uri=http://localhost:3002/say/bye&response_type=token&scope=
+Completed 302 Found in 1ms
+
+
+Started GET "/say/bye" for 127.0.0.1 at 2012-06-12 17:22:03 -0400
+Processing by SayController#bye as HTML
+  Rendered text template (0.0ms)
+Completed 200 OK in 1ms (Views: 0.9ms)
+
+
+Started GET "/say/hello" for 127.0.0.1 at 2012-06-12 17:24:05 -0400
+Processing by SayController#hello as HTML
+Redirected to http://localhost:3000/oauth/authorize?client_id=4fd7b186503dd47e740000da&redirect_uri=http://localhost:3002/say/bye&response_type=token&scope=
+Completed 302 Found in 0ms
+
+
+Started GET "/say/bye" for 127.0.0.1 at 2012-06-12 17:24:06 -0400
+Processing by SayController#bye as HTML
+  Rendered text template (0.0ms)
+Completed 200 OK in 4ms (Views: 1.5ms)
+
+
+Started GET "/say/hello" for 127.0.0.1 at 2012-06-12 17:24:36 -0400
+Processing by SayController#hello as HTML
+Redirected to http://localhost:3000/oauth/authorize?client_id=4fd7b186503dd47e740000da&redirect_uri=http://localhost:3002/say/bye&response_type=token&scope=
+Completed 302 Found in 0ms
+
+
+Started GET "/say/bye" for 127.0.0.1 at 2012-06-12 17:24:38 -0400
+Processing by SayController#bye as HTML
+  Rendered text template (0.0ms)
+Completed 200 OK in 1ms (Views: 1.1ms)
+
+
+Started GET "/say/bye" for 127.0.0.1 at 2012-06-12 17:26:44 -0400
+Processing by SayController#bye as HTML
+  Rendered text template (0.0ms)
+Completed 200 OK in 37ms (Views: 1.3ms)
+
+
+Started GET "/say/bye" for 127.0.0.1 at 2012-06-12 17:26:50 -0400
+Processing by SayController#bye as HTML
+  Rendered text template (0.0ms)
+Completed 200 OK in 1ms (Views: 0.3ms)
+
+
+Started GET "/say/bye" for 127.0.0.1 at 2012-06-12 17:27:36 -0400
+Processing by SayController#bye as HTML
+  Rendered text template (0.0ms)
+Completed 200 OK in 1ms (Views: 0.9ms)
+
+
+Started GET "/say/bye" for 127.0.0.1 at 2012-06-12 17:27:43 -0400
+Processing by SayController#bye as HTML
+  Rendered text template (0.0ms)
+Completed 200 OK in 1ms (Views: 0.9ms)
+
+
+Started GET "/say/bye" for 127.0.0.1 at 2012-06-12 17:27:59 -0400
+Processing by SayController#bye as HTML
+  Rendered text template (0.0ms)
+Completed 200 OK in 1ms (Views: 0.3ms)
+
+
+Started GET "/say/bye" for 127.0.0.1 at 2012-06-12 17:28:23 -0400
+Processing by SayController#bye as HTML
+Completed 500 Internal Server Error in 1ms
+
+NoMethodError (undefined method `header' for #<ActionDispatch::Request:0x00000102c27d30>):
+  app/controllers/say_controller.rb:13:in `bye'
+
+
+  Rendered /Users/danieljeng1/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.3/lib/action_dispatch/middleware/templates/rescues/_trace.erb (4.2ms)
+  Rendered /Users/danieljeng1/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.3/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.3ms)
+  Rendered /Users/danieljeng1/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.3/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (14.7ms)
+
+
+Started GET "/say/bye" for 127.0.0.1 at 2012-06-12 17:29:07 -0400
+Processing by SayController#bye as HTML
+Completed 500 Internal Server Error in 2ms
+
+NameError (undefined local variable or method `header' for #<SayController:0x00000101ac5e20>):
+  app/controllers/say_controller.rb:13:in `bye'
+
+
+  Rendered /Users/danieljeng1/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.3/lib/action_dispatch/middleware/templates/rescues/_trace.erb (3.0ms)
+  Rendered /Users/danieljeng1/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.3/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.3ms)
+  Rendered /Users/danieljeng1/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.3/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (12.2ms)
+
+
+Started GET "/say/hello" for 127.0.0.1 at 2012-06-12 17:33:45 -0400
+Processing by SayController#hello as HTML
+Redirected to http://localhost:3000/oauth/authorize?client_id=4fd7b186503dd47e740000da&redirect_uri=http://localhost:3002/say/bye&response_type=token&scope=
+Completed 302 Found in 1ms
+
+
+Started GET "/say/bye" for 127.0.0.1 at 2012-06-12 17:33:48 -0400
+Processing by SayController#bye as HTML
+  Rendered text template (0.0ms)
+Completed 200 OK in 2ms (Views: 1.4ms)
+
+
+Started GET "/say/hello" for 127.0.0.1 at 2012-06-12 17:34:06 -0400
+Processing by SayController#hello as HTML
+Redirected to http://localhost:3000/oauth/authorize?client_id=4fd7b186503dd47e740000da&redirect_uri=http://localhost:3002/say/bye&response_type=token&scope=
+Completed 302 Found in 0ms
+
+
+Started GET "/say/bye" for 127.0.0.1 at 2012-06-12 17:34:08 -0400
+Processing by SayController#bye as HTML
+  Rendered text template (0.0ms)
+Completed 200 OK in 1ms (Views: 0.9ms)
+
+
+Started GET "/say/bye" for 127.0.0.1 at 2012-06-12 17:35:14 -0400
+Processing by SayController#bye as HTML
+  Rendered text template (0.0ms)
+Completed 200 OK in 1ms (Views: 0.5ms)
+
+
+Started GET "/say/hello" for 127.0.0.1 at 2012-06-13 09:43:42 -0400
+
+SyntaxError (/Users/danieljeng1/rails/demo/app/controllers/say_controller.rb:9: syntax error, unexpected '{', expecting keyword_end
+...calhost:3000/oauth/authorize" {:client_id=>client_id, 
+...                               ^
+/Users/danieljeng1/rails/demo/app/controllers/say_controller.rb:10: syntax error, unexpected tASSOC, expecting tCOLON2 or '[' or '.'
+        :redirect_url=>"http://localhost:3002/say/bye",
+                       ^
+/Users/danieljeng1/rails/demo/app/controllers/say_controller.rb:10: syntax error, unexpected ',', expecting keyword_end
+/Users/danieljeng1/rails/demo/app/controllers/say_controller.rb:11: syntax error, unexpected ',', expecting keyword_end
+        :response_type=>"token", :scope=>""}
+                                ^):
+  activesupport (3.2.3) lib/active_support/dependencies.rb:469:in `load'
+  activesupport (3.2.3) lib/active_support/dependencies.rb:469:in `block in load_file'
+  activesupport (3.2.3) lib/active_support/dependencies.rb:639:in `new_constants_in'
+  activesupport (3.2.3) lib/active_support/dependencies.rb:468:in `load_file'
+  activesupport (3.2.3) lib/active_support/dependencies.rb:353:in `require_or_load'
+  activesupport (3.2.3) lib/active_support/dependencies.rb:502:in `load_missing_constant'
+  activesupport (3.2.3) lib/active_support/dependencies.rb:192:in `block in const_missing'
+  activesupport (3.2.3) lib/active_support/dependencies.rb:190:in `each'
+  activesupport (3.2.3) lib/active_support/dependencies.rb:190:in `const_missing'
+  activesupport (3.2.3) lib/active_support/inflector/methods.rb:229:in `block in constantize'
+  activesupport (3.2.3) lib/active_support/inflector/methods.rb:228:in `each'
+  activesupport (3.2.3) lib/active_support/inflector/methods.rb:228:in `constantize'
+  activesupport (3.2.3) lib/active_support/dependencies.rb:554:in `get'
+  actionpack (3.2.3) lib/action_dispatch/routing/route_set.rb:69:in `controller_reference'
+  actionpack (3.2.3) lib/action_dispatch/routing/route_set.rb:54:in `controller'
+  actionpack (3.2.3) lib/action_dispatch/routing/route_set.rb:32:in `call'
+  journey (1.0.3) lib/journey/router.rb:68:in `block in call'
+  journey (1.0.3) lib/journey/router.rb:56:in `each'
+  journey (1.0.3) lib/journey/router.rb:56:in `call'
+  actionpack (3.2.3) lib/action_dispatch/routing/route_set.rb:600:in `call'
+  mongo_mapper (0.11.1) lib/mongo_mapper/middleware/identity_map.rb:10:in `call'
+  rack-oauth2-server (2.6.0) lib/rack/oauth2/server.rb:272:in `call'
+  actionpack (3.2.3) lib/action_dispatch/middleware/best_standards_support.rb:17:in `call'
+  rack (1.4.1) lib/rack/etag.rb:23:in `call'
+  rack (1.4.1) lib/rack/conditionalget.rb:25:in `call'
+  actionpack (3.2.3) lib/action_dispatch/middleware/head.rb:14:in `call'
+  actionpack (3.2.3) lib/action_dispatch/middleware/params_parser.rb:21:in `call'
+  actionpack (3.2.3) lib/action_dispatch/middleware/flash.rb:242:in `call'
+  rack (1.4.1) lib/rack/session/abstract/id.rb:205:in `context'
+  rack (1.4.1) lib/rack/session/abstract/id.rb:200:in `call'
+  actionpack (3.2.3) lib/action_dispatch/middleware/cookies.rb:338:in `call'
+  actionpack (3.2.3) lib/action_dispatch/middleware/callbacks.rb:28:in `block in call'
+  activesupport (3.2.3) lib/active_support/callbacks.rb:405:in `_run__1104671301957495427__call__3102620508710641093__callbacks'
+  activesupport (3.2.3) lib/active_support/callbacks.rb:405:in `__run_callback'
+  activesupport (3.2.3) lib/active_support/callbacks.rb:385:in `_run_call_callbacks'
+  activesupport (3.2.3) lib/active_support/callbacks.rb:81:in `run_callbacks'
+  actionpack (3.2.3) lib/action_dispatch/middleware/callbacks.rb:27:in `call'
+  actionpack (3.2.3) lib/action_dispatch/middleware/reloader.rb:65:in `call'
+  actionpack (3.2.3) lib/action_dispatch/middleware/remote_ip.rb:31:in `call'
+  actionpack (3.2.3) lib/action_dispatch/middleware/debug_exceptions.rb:16:in `call'
+  actionpack (3.2.3) lib/action_dispatch/middleware/show_exceptions.rb:56:in `call'
+  railties (3.2.3) lib/rails/rack/logger.rb:26:in `call_app'
+  railties (3.2.3) lib/rails/rack/logger.rb:16:in `call'
+  actionpack (3.2.3) lib/action_dispatch/middleware/request_id.rb:22:in `call'
+  rack (1.4.1) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.4.1) lib/rack/runtime.rb:17:in `call'
+  activesupport (3.2.3) lib/active_support/cache/strategy/local_cache.rb:72:in `call'
+  rack (1.4.1) lib/rack/lock.rb:15:in `call'
+  actionpack (3.2.3) lib/action_dispatch/middleware/static.rb:62:in `call'
+  railties (3.2.3) lib/rails/engine.rb:479:in `call'
+  railties (3.2.3) lib/rails/application.rb:220:in `call'
+  rack (1.4.1) lib/rack/content_length.rb:14:in `call'
+  railties (3.2.3) lib/rails/rack/log_tailer.rb:14:in `call'
+  rack (1.4.1) lib/rack/handler/webrick.rb:59:in `service'
+  /Users/danieljeng1/.rvm/rubies/ruby-1.9.3-p194/lib/ruby/1.9.1/webrick/httpserver.rb:138:in `service'
+  /Users/danieljeng1/.rvm/rubies/ruby-1.9.3-p194/lib/ruby/1.9.1/webrick/httpserver.rb:94:in `run'
+  /Users/danieljeng1/.rvm/rubies/ruby-1.9.3-p194/lib/ruby/1.9.1/webrick/server.rb:191:in `block in start_thread'
+
+
+  Rendered /Users/danieljeng1/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.3/lib/action_dispatch/middleware/templates/rescues/_trace.erb (3.3ms)
+  Rendered /Users/danieljeng1/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.3/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (26.0ms)
+  Rendered /Users/danieljeng1/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.3/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (45.2ms)
+
+
+Started GET "/say/hello" for 127.0.0.1 at 2012-06-13 09:43:52 -0400
+Processing by SayController#hello as HTML
+Completed 500 Internal Server Error in 2ms
+
+NoMethodError (undefined method `post' for #<SayController:0x00000100f534c0>):
+  app/controllers/say_controller.rb:9:in `hello'
+
+
+  Rendered /Users/danieljeng1/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.3/lib/action_dispatch/middleware/templates/rescues/_trace.erb (3.0ms)
+  Rendered /Users/danieljeng1/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.3/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.2ms)
+  Rendered /Users/danieljeng1/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.3/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (12.3ms)
+
+
+Started GET "/say/hello" for 127.0.0.1 at 2012-06-13 09:47:37 -0400
+Processing by SayController#hello as HTML
+Redirected to http://localhost:3000/oauth/authorize?client_id=4fd7b186503dd47e740000da&redirect_uri=http://localhost:3002/say/bye&response_type=token&scope=
+Completed 302 Found in 0ms
+
+
+Started GET "/say/bye" for 127.0.0.1 at 2012-06-13 09:47:41 -0400
+Processing by SayController#bye as HTML
+  Rendered text template (0.0ms)
+Completed 200 OK in 52ms (Views: 52.1ms)
+
+
+Started GET "/say/hello" for 127.0.0.1 at 2012-06-13 10:46:14 -0400
+Processing by SayController#hello as HTML
+Redirected to http://localhost:3000/oauth/authorize?client_id=4fd7b186503dd47e740000da&redirect_uri=http://localhost:3002/say/bye&response_type=token&scope=
+Completed 302 Found in 0ms
+
+
+Started GET "/say/bye" for 127.0.0.1 at 2012-06-13 10:46:17 -0400
+Processing by SayController#bye as HTML
+  Rendered text template (0.0ms)
+Completed 200 OK in 1ms (Views: 0.4ms)
+
+
+Started GET "/say/hello" for 127.0.0.1 at 2012-06-13 10:50:14 -0400
+Processing by SayController#hello as HTML
+Redirected to http://localhost:3000/oauth/authorize?client_id=4fd7b186503dd47e740000da&redirect_uri=http://localhost:3002/say/bye&response_type=code&scope=
+Completed 302 Found in 0ms
+
+
+Started GET "/say/bye?code=f3f1523e5ceecb4eb5aab188c6ebfef30f96c3680b18ba59e2c16e74c36b360c&scope=&state" for 127.0.0.1 at 2012-06-13 10:50:17 -0400
+Processing by SayController#bye as HTML
+  Parameters: {"code"=>"f3f1523e5ceecb4eb5aab188c6ebfef30f96c3680b18ba59e2c16e74c36b360c", "scope"=>"", "state"=>nil}
+  Rendered text template (0.0ms)
+Completed 200 OK in 1ms (Views: 0.9ms)
+
+
+Started GET "/say/hello" for 127.0.0.1 at 2012-06-13 10:53:26 -0400
+Processing by SayController#hello as HTML
+Completed 500 Internal Server Error in 2ms
+
+NoMethodError (undefined method `redirect' for #<SayController:0x00000103423e80>):
+  app/controllers/say_controller.rb:12:in `hello'
+
+
+  Rendered /Users/danieljeng1/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.3/lib/action_dispatch/middleware/templates/rescues/_trace.erb (3.2ms)
+  Rendered /Users/danieljeng1/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.3/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.2ms)
+  Rendered /Users/danieljeng1/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.3/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (11.6ms)
+
+
+Started GET "/say/bye?code=f3f1523e5ceecb4eb5aab188c6ebfef30f96c3680b18ba59e2c16e74c36b360c&scope=&state" for 127.0.0.1 at 2012-06-13 10:54:13 -0400
+Processing by SayController#bye as HTML
+  Parameters: {"code"=>"f3f1523e5ceecb4eb5aab188c6ebfef30f96c3680b18ba59e2c16e74c36b360c", "scope"=>"", "state"=>nil}
+  Rendered text template (0.0ms)
+Completed 200 OK in 2ms (Views: 1.0ms)
+
+
+Started GET "/say/hello" for 127.0.0.1 at 2012-06-13 10:54:17 -0400
+Processing by SayController#hello as HTML
+Redirected to http://localhost:3000/oauth/authorize?client_id=4fd7b186503dd47e740000da&redirect_uri=http://localhost:3002/say/bye&response_type=code&scope=
+Completed 302 Found in 1ms
+
+
+Started GET "/say/bye?code=83f836bfbb8da5046b2af785f90ff515bc5313816c11caf4451ce1075b6c024a&scope=&state" for 127.0.0.1 at 2012-06-13 10:54:26 -0400
+Processing by SayController#bye as HTML
+  Parameters: {"code"=>"83f836bfbb8da5046b2af785f90ff515bc5313816c11caf4451ce1075b6c024a", "scope"=>"", "state"=>nil}
+  Rendered text template (0.0ms)
+Completed 200 OK in 1ms (Views: 0.4ms)
+
+
+Started GET "/say/bye?code=83f836bfbb8da5046b2af785f90ff515bc5313816c11caf4451ce1075b6c024a&scope=&state" for 127.0.0.1 at 2012-06-13 11:04:40 -0400
+Processing by SayController#bye as HTML
+  Parameters: {"code"=>"83f836bfbb8da5046b2af785f90ff515bc5313816c11caf4451ce1075b6c024a", "scope"=>"", "state"=>nil}
+Completed 500 Internal Server Error in 1ms
+
+NoMethodError (undefined method `nil' for #<ActiveSupport::HashWithIndifferentAccess:0x000001032306f0>):
+  app/controllers/say_controller.rb:17:in `bye'
+
+
+  Rendered /Users/danieljeng1/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.3/lib/action_dispatch/middleware/templates/rescues/_trace.erb (2.9ms)
+  Rendered /Users/danieljeng1/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.3/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.4ms)
+  Rendered /Users/danieljeng1/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.3/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (14.1ms)
+
+
+Started GET "/say/hello" for 127.0.0.1 at 2012-06-13 11:04:46 -0400
+Processing by SayController#hello as HTML
+Redirected to http://localhost:3000/oauth/authorize?client_id=4fd7b186503dd47e740000da&redirect_uri=http://localhost:3002/say/bye&response_type=code&scope=
+Completed 302 Found in 1ms
+
+
+Started GET "/say/bye?code=320f55a50204e23e6a83fb33637d3818602f8257e82b6bcdfc5124ab83aba2a1&scope=&state" for 127.0.0.1 at 2012-06-13 11:05:09 -0400
+Processing by SayController#bye as HTML
+  Parameters: {"code"=>"320f55a50204e23e6a83fb33637d3818602f8257e82b6bcdfc5124ab83aba2a1", "scope"=>"", "state"=>nil}
+Completed 500 Internal Server Error in 0ms
+
+NoMethodError (undefined method `nil' for #<ActiveSupport::HashWithIndifferentAccess:0x00000103253628>):
+  app/controllers/say_controller.rb:17:in `bye'
+
+
+  Rendered /Users/danieljeng1/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.3/lib/action_dispatch/middleware/templates/rescues/_trace.erb (3.1ms)
+  Rendered /Users/danieljeng1/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.3/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.2ms)
+  Rendered /Users/danieljeng1/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.3/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (11.4ms)
+
+
+Started GET "/say/hello" for 127.0.0.1 at 2012-06-13 11:05:19 -0400
+Processing by SayController#hello as HTML
+Redirected to http://localhost:3000/oauth/authorize?client_id=4fd7b186503dd47e740000da&redirect_uri=http://localhost:3002/say/bye&response_type=code&scope=
+Completed 302 Found in 1ms
+
+
+Started GET "/say/bye?code=490cb2f42bc38bc465fc97b6402684ac57ce5a68583a288d7f6b1c0538aa41c3&scope=&state" for 127.0.0.1 at 2012-06-13 11:05:21 -0400
+Processing by SayController#bye as HTML
+  Parameters: {"code"=>"490cb2f42bc38bc465fc97b6402684ac57ce5a68583a288d7f6b1c0538aa41c3", "scope"=>"", "state"=>nil}
+  Rendered text template (0.0ms)
+Completed 200 OK in 2ms (Views: 1.3ms)
+
+
+Started GET "/say/hello" for 127.0.0.1 at 2012-06-13 11:05:47 -0400
+Processing by SayController#hello as HTML
+Redirected to http://localhost:3000/oauth/authorize?client_id=4fd7b186503dd47e740000da&redirect_uri=http://localhost:3002/say/bye&response_type=code&scope=
+Completed 302 Found in 0ms
+
+
+Started GET "/say/bye?code=9a8ee101e717b9e9e6c0c5ec2309888aa0c67d7d799681eaac9d0a1292a588b0&scope=&state" for 127.0.0.1 at 2012-06-13 11:05:49 -0400
+Processing by SayController#bye as HTML
+  Parameters: {"code"=>"9a8ee101e717b9e9e6c0c5ec2309888aa0c67d7d799681eaac9d0a1292a588b0", "scope"=>"", "state"=>nil}
+  Rendered text template (0.0ms)
+Completed 200 OK in 2ms (Views: 1.0ms)
+
+
+Started GET "/say/hello" for 127.0.0.1 at 2012-06-13 11:07:14 -0400
+Processing by SayController#hello as HTML
+Redirected to http://localhost:3000/oauth/authorize?client_id=4fd7b186503dd47e740000da&redirect_uri=http://localhost:3002/say/bye&response_type=code&scope=
+Completed 302 Found in 0ms
+
+
+Started GET "/say/hello" for 127.0.0.1 at 2012-06-13 11:07:38 -0400
+Processing by SayController#hello as HTML
+Redirected to http://localhost:3000/oauth/authorize?client_id=4fd7b186503dd47e740000da&redirect_uri=http://localhost:3002/say/bye&response_type=code&scope=
+Completed 302 Found in 1ms
+
+
+Started GET "/say/bye?code=2520492a7337386d2d22ab3bc826651c7140f3103ac2e6c864196b4dea6f0440&scope=&state" for 127.0.0.1 at 2012-06-13 11:07:39 -0400
+Processing by SayController#bye as HTML
+  Parameters: {"code"=>"2520492a7337386d2d22ab3bc826651c7140f3103ac2e6c864196b4dea6f0440", "scope"=>"", "state"=>nil}
+  Rendered text template (0.0ms)
+Completed 200 OK in 1ms (Views: 0.9ms)
+
+
+Started GET "/say/bye?code=2520492a7337386d2d22ab3bc826651c7140f3103ac2e6c864196b4dea6f0440&scope=&state" for 127.0.0.1 at 2012-06-13 11:16:53 -0400
+Processing by SayController#bye as HTML
+  Parameters: {"code"=>"2520492a7337386d2d22ab3bc826651c7140f3103ac2e6c864196b4dea6f0440", "scope"=>"", "state"=>nil}
+  Rendered text template (0.0ms)
+Completed 200 OK in 1ms (Views: 0.8ms)
+
+
+Started GET "/say/bye?code=2520492a7337386d2d22ab3bc826651c7140f3103ac2e6c864196b4dea6f0440&scope=&state" for 127.0.0.1 at 2012-06-13 11:16:55 -0400
+Processing by SayController#bye as HTML
+  Parameters: {"code"=>"2520492a7337386d2d22ab3bc826651c7140f3103ac2e6c864196b4dea6f0440", "scope"=>"", "state"=>nil}
+  Rendered text template (0.0ms)
+Completed 200 OK in 0ms (Views: 0.3ms)
+
+
+Started GET "/say/hello" for 127.0.0.1 at 2012-06-13 11:16:57 -0400
+Processing by SayController#hello as HTML
+Redirected to http://localhost:3000/oauth/authorize?client_id=4fd7b186503dd47e740000da&redirect_uri=http://localhost:3002/say/bye&response_type=code&scope=
+Completed 302 Found in 1ms
+
+
+Started GET "/say/bye?code=4bb9d4781b890f1e614c08d332a6568a1d6f777d143c56b71a32a5f4688290b8&scope=&state" for 127.0.0.1 at 2012-06-13 11:17:13 -0400
+Processing by SayController#bye as HTML
+  Parameters: {"code"=>"4bb9d4781b890f1e614c08d332a6568a1d6f777d143c56b71a32a5f4688290b8", "scope"=>"", "state"=>nil}
+  Rendered text template (0.0ms)
+Completed 200 OK in 1ms (Views: 0.9ms)
+
+
+Started GET "/say/bye?code=4bb9d4781b890f1e614c08d332a6568a1d6f777d143c56b71a32a5f4688290b8&scope=&state" for 127.0.0.1 at 2012-06-13 11:17:28 -0400
+Processing by SayController#bye as HTML
+  Parameters: {"code"=>"4bb9d4781b890f1e614c08d332a6568a1d6f777d143c56b71a32a5f4688290b8", "scope"=>"", "state"=>nil}
+  Rendered text template (0.0ms)
+Completed 200 OK in 1ms (Views: 0.9ms)
+
+
+Started GET "/say/bye?code=4bb9d4781b890f1e614c08d332a6568a1d6f777d143c56b71a32a5f4688290b8&scope=&state" for 127.0.0.1 at 2012-06-13 11:17:35 -0400
+Processing by SayController#bye as HTML
+  Parameters: {"code"=>"4bb9d4781b890f1e614c08d332a6568a1d6f777d143c56b71a32a5f4688290b8", "scope"=>"", "state"=>nil}
+  Rendered text template (0.0ms)
+Completed 200 OK in 1ms (Views: 0.8ms)
+
+
+Started GET "/say/bye?code=4bb9d4781b890f1e614c08d332a6568a1d6f777d143c56b71a32a5f4688290b8&scope=&state" for 127.0.0.1 at 2012-06-13 11:17:46 -0400
+Processing by SayController#bye as HTML
+  Parameters: {"code"=>"4bb9d4781b890f1e614c08d332a6568a1d6f777d143c56b71a32a5f4688290b8", "scope"=>"", "state"=>nil}
+  Rendered text template (0.0ms)
+Completed 200 OK in 1ms (Views: 0.8ms)
+
+
+Started GET "/say/bye?code=4bb9d4781b890f1e614c08d332a6568a1d6f777d143c56b71a32a5f4688290b8&scope=&state" for 127.0.0.1 at 2012-06-13 11:17:54 -0400
+Processing by SayController#bye as HTML
+  Parameters: {"code"=>"4bb9d4781b890f1e614c08d332a6568a1d6f777d143c56b71a32a5f4688290b8", "scope"=>"", "state"=>nil}
+  Rendered text template (0.0ms)
+Completed 200 OK in 2ms (Views: 1.1ms)
+
+
+Started GET "/say/bye?code=4bb9d4781b890f1e614c08d332a6568a1d6f777d143c56b71a32a5f4688290b8&scope=&state" for 127.0.0.1 at 2012-06-13 11:18:02 -0400
+Processing by SayController#bye as HTML
+  Parameters: {"code"=>"4bb9d4781b890f1e614c08d332a6568a1d6f777d143c56b71a32a5f4688290b8", "scope"=>"", "state"=>nil}
+Completed 500 Internal Server Error in 1ms
+
+NoMethodError (undefined method `instance_methods' for #<Net::HTTP::Post POST>):
+  app/controllers/say_controller.rb:20:in `bye'
+
+
+  Rendered /Users/danieljeng1/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.3/lib/action_dispatch/middleware/templates/rescues/_trace.erb (32.7ms)
+  Rendered /Users/danieljeng1/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.3/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.3ms)
+  Rendered /Users/danieljeng1/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.3/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (41.4ms)
+
+
+Started GET "/say/bye?code=4bb9d4781b890f1e614c08d332a6568a1d6f777d143c56b71a32a5f4688290b8&scope=&state" for 127.0.0.1 at 2012-06-13 11:18:49 -0400
+Processing by SayController#bye as HTML
+  Parameters: {"code"=>"4bb9d4781b890f1e614c08d332a6568a1d6f777d143c56b71a32a5f4688290b8", "scope"=>"", "state"=>nil}
+  Rendered text template (0.0ms)
+Completed 200 OK in 1ms (Views: 0.8ms)
+
+
+Started GET "/say/bye?code=4bb9d4781b890f1e614c08d332a6568a1d6f777d143c56b71a32a5f4688290b8&scope=&state" for 127.0.0.1 at 2012-06-13 11:19:59 -0400
+Processing by SayController#bye as HTML
+  Parameters: {"code"=>"4bb9d4781b890f1e614c08d332a6568a1d6f777d143c56b71a32a5f4688290b8", "scope"=>"", "state"=>nil}
+Completed 500 Internal Server Error in 0ms
+
+NoMethodError (undefined method `request_uri' for "http://localhost:3000/oauth/access_token":String):
+  app/controllers/say_controller.rb:19:in `bye'
+
+
+  Rendered /Users/danieljeng1/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.3/lib/action_dispatch/middleware/templates/rescues/_trace.erb (3.0ms)
+  Rendered /Users/danieljeng1/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.3/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (2.0ms)
+  Rendered /Users/danieljeng1/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.3/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (13.1ms)
+
+
+Started GET "/say/bye?code=4bb9d4781b890f1e614c08d332a6568a1d6f777d143c56b71a32a5f4688290b8&scope=&state" for 127.0.0.1 at 2012-06-13 11:23:34 -0400
+Processing by SayController#bye as HTML
+  Parameters: {"code"=>"4bb9d4781b890f1e614c08d332a6568a1d6f777d143c56b71a32a5f4688290b8", "scope"=>"", "state"=>nil}
+Completed 500 Internal Server Error in 0ms
+
+NoMethodError (undefined method `request_uri' for "http://localhost:3000/oauth/access_token":String):
+  app/controllers/say_controller.rb:19:in `bye'
+
+
+  Rendered /Users/danieljeng1/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.3/lib/action_dispatch/middleware/templates/rescues/_trace.erb (3.0ms)
+  Rendered /Users/danieljeng1/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.3/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.5ms)
+  Rendered /Users/danieljeng1/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.3/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (13.1ms)
+
+
+Started GET "/say/bye?code=4bb9d4781b890f1e614c08d332a6568a1d6f777d143c56b71a32a5f4688290b8&scope=&state" for 127.0.0.1 at 2012-06-13 11:24:09 -0400
+Processing by SayController#bye as HTML
+  Parameters: {"code"=>"4bb9d4781b890f1e614c08d332a6568a1d6f777d143c56b71a32a5f4688290b8", "scope"=>"", "state"=>nil}
+  Rendered text template (0.0ms)
+Completed 200 OK in 1ms (Views: 0.9ms)
+
+
+Started GET "/say/hello" for 127.0.0.1 at 2012-06-13 11:24:18 -0400
+Processing by SayController#hello as HTML
+Redirected to http://localhost:3000/oauth/authorize?client_id=4fd7b186503dd47e740000da&redirect_uri=http://localhost:3002/say/bye&response_type=code&scope=
+Completed 302 Found in 1ms
+
+
+Started GET "/say/bye?code=58b91dbbd54fe2a5190767eba7810a98c872dc645a11bb060c6937bb06fce5ba&scope=&state" for 127.0.0.1 at 2012-06-13 11:24:20 -0400
+Processing by SayController#bye as HTML
+  Parameters: {"code"=>"58b91dbbd54fe2a5190767eba7810a98c872dc645a11bb060c6937bb06fce5ba", "scope"=>"", "state"=>nil}
+  Rendered text template (0.0ms)
+Completed 200 OK in 0ms (Views: 0.4ms)
+
+
+Started GET "/say/bye?code=58b91dbbd54fe2a5190767eba7810a98c872dc645a11bb060c6937bb06fce5ba&scope=&state" for 127.0.0.1 at 2012-06-13 11:24:38 -0400
+Processing by SayController#bye as HTML
+  Parameters: {"code"=>"58b91dbbd54fe2a5190767eba7810a98c872dc645a11bb060c6937bb06fce5ba", "scope"=>"", "state"=>nil}
+Completed 500 Internal Server Error in 0ms
+
+NoMethodError (undefined method `request_uri' for "http://localhost:3000/oauth/access_token":String):
+  app/controllers/say_controller.rb:19:in `bye'
+
+
+  Rendered /Users/danieljeng1/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.3/lib/action_dispatch/middleware/templates/rescues/_trace.erb (3.0ms)
+  Rendered /Users/danieljeng1/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.3/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.2ms)
+  Rendered /Users/danieljeng1/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.3/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (11.6ms)
+
+
+Started GET "/say/bye?code=58b91dbbd54fe2a5190767eba7810a98c872dc645a11bb060c6937bb06fce5ba&scope=&state" for 127.0.0.1 at 2012-06-13 11:25:03 -0400
+Processing by SayController#bye as HTML
+  Parameters: {"code"=>"58b91dbbd54fe2a5190767eba7810a98c872dc645a11bb060c6937bb06fce5ba", "scope"=>"", "state"=>nil}
+Completed 500 Internal Server Error in 1ms
+
+Errno::ENOENT (No such file or directory - uri):
+  app/controllers/say_controller.rb:19:in `bye'
+
+
+  Rendered /Users/danieljeng1/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.3/lib/action_dispatch/middleware/templates/rescues/_trace.erb (3.1ms)
+  Rendered /Users/danieljeng1/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.3/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.2ms)
+  Rendered /Users/danieljeng1/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.3/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (11.8ms)
+
+
+Started GET "/say/bye?code=58b91dbbd54fe2a5190767eba7810a98c872dc645a11bb060c6937bb06fce5ba&scope=&state" for 127.0.0.1 at 2012-06-13 11:25:12 -0400
+Processing by SayController#bye as HTML
+  Parameters: {"code"=>"58b91dbbd54fe2a5190767eba7810a98c872dc645a11bb060c6937bb06fce5ba", "scope"=>"", "state"=>nil}
+Completed 500 Internal Server Error in 11ms
+
+OpenURI::HTTPError (405 Method Not Allowed ):
+  app/controllers/say_controller.rb:19:in `bye'
+
+
+  Rendered /Users/danieljeng1/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.3/lib/action_dispatch/middleware/templates/rescues/_trace.erb (3.2ms)
+  Rendered /Users/danieljeng1/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.3/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.2ms)
+  Rendered /Users/danieljeng1/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.3/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (11.5ms)
+
+
+Started GET "/say/bye?code=58b91dbbd54fe2a5190767eba7810a98c872dc645a11bb060c6937bb06fce5ba&scope=&state" for 127.0.0.1 at 2012-06-13 11:25:12 -0400
+Processing by SayController#bye as HTML
+  Parameters: {"code"=>"58b91dbbd54fe2a5190767eba7810a98c872dc645a11bb060c6937bb06fce5ba", "scope"=>"", "state"=>nil}
+Completed 500 Internal Server Error in 8ms
+
+OpenURI::HTTPError (405 Method Not Allowed ):
+  app/controllers/say_controller.rb:19:in `bye'
+
+
+  Rendered /Users/danieljeng1/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.3/lib/action_dispatch/middleware/templates/rescues/_trace.erb (3.3ms)
+  Rendered /Users/danieljeng1/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.3/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.2ms)
+  Rendered /Users/danieljeng1/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.3/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (11.7ms)
+
+
+Started GET "/say/bye?code=58b91dbbd54fe2a5190767eba7810a98c872dc645a11bb060c6937bb06fce5ba&scope=&state" for 127.0.0.1 at 2012-06-13 11:26:51 -0400
+Processing by SayController#bye as HTML
+  Parameters: {"code"=>"58b91dbbd54fe2a5190767eba7810a98c872dc645a11bb060c6937bb06fce5ba", "scope"=>"", "state"=>nil}
+Completed 500 Internal Server Error in 0ms
+
+NoMethodError (undefined method `request_uri' for "http://localhost:3000/oauth/access_token":String):
+  app/controllers/say_controller.rb:19:in `bye'
+
+
+  Rendered /Users/danieljeng1/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.3/lib/action_dispatch/middleware/templates/rescues/_trace.erb (3.0ms)
+  Rendered /Users/danieljeng1/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.3/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (2.3ms)
+  Rendered /Users/danieljeng1/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.3/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (13.2ms)
+
+
+Started GET "/say/hello" for 127.0.0.1 at 2012-06-13 11:27:00 -0400
+Processing by SayController#hello as HTML
+Redirected to http://localhost:3000/oauth/authorize?client_id=4fd7b186503dd47e740000da&redirect_uri=http://localhost:3002/say/bye&response_type=code&scope=
+Completed 302 Found in 0ms
+
+
+Started GET "/say/bye?code=1c59c7491840898f26d354db716dd7369cd9cfcde825945026f6f989ab726cbe&scope=&state" for 127.0.0.1 at 2012-06-13 11:27:03 -0400
+Processing by SayController#bye as HTML
+  Parameters: {"code"=>"1c59c7491840898f26d354db716dd7369cd9cfcde825945026f6f989ab726cbe", "scope"=>"", "state"=>nil}
+Completed 500 Internal Server Error in 0ms
+
+NoMethodError (undefined method `request_uri' for "http://localhost:3000/oauth/access_token":String):
+  app/controllers/say_controller.rb:19:in `bye'
+
+
+  Rendered /Users/danieljeng1/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.3/lib/action_dispatch/middleware/templates/rescues/_trace.erb (3.1ms)
+  Rendered /Users/danieljeng1/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.3/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.2ms)
+  Rendered /Users/danieljeng1/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.3/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (11.8ms)
+
+
+Started GET "/say/bye?code=1c59c7491840898f26d354db716dd7369cd9cfcde825945026f6f989ab726cbe&scope=&state" for 127.0.0.1 at 2012-06-13 11:28:33 -0400
+Processing by SayController#bye as HTML
+  Parameters: {"code"=>"1c59c7491840898f26d354db716dd7369cd9cfcde825945026f6f989ab726cbe", "scope"=>"", "state"=>nil}
+  Rendered text template (0.0ms)
+Completed 200 OK in 105ms (Views: 1.0ms)
+
+
+Started GET "/say/bye?code=1c59c7491840898f26d354db716dd7369cd9cfcde825945026f6f989ab726cbe&scope=&state" for 127.0.0.1 at 2012-06-13 11:28:36 -0400
+Processing by SayController#bye as HTML
+  Parameters: {"code"=>"1c59c7491840898f26d354db716dd7369cd9cfcde825945026f6f989ab726cbe", "scope"=>"", "state"=>nil}
+  Rendered text template (0.0ms)
+Completed 200 OK in 12ms (Views: 0.4ms)
+
+
+Started GET "/say/bye?code=1c59c7491840898f26d354db716dd7369cd9cfcde825945026f6f989ab726cbe&scope=&state" for 127.0.0.1 at 2012-06-13 11:28:37 -0400
+Processing by SayController#bye as HTML
+  Parameters: {"code"=>"1c59c7491840898f26d354db716dd7369cd9cfcde825945026f6f989ab726cbe", "scope"=>"", "state"=>nil}
+  Rendered text template (0.0ms)
+Completed 200 OK in 11ms (Views: 0.5ms)
+
+
+Started GET "/say/bye?code=1c59c7491840898f26d354db716dd7369cd9cfcde825945026f6f989ab726cbe&scope=&state" for 127.0.0.1 at 2012-06-13 11:28:56 -0400
+Processing by SayController#bye as HTML
+  Parameters: {"code"=>"1c59c7491840898f26d354db716dd7369cd9cfcde825945026f6f989ab726cbe", "scope"=>"", "state"=>nil}
+  Rendered text template (0.0ms)
+Completed 200 OK in 11ms (Views: 1.0ms)
+
+
+Started GET "/say/bye?code=29914411f35e791c0c1656468d14aeecfc83a9b0669f7ecd7286f115cefe92cc&scope=&state" for 127.0.0.1 at 2012-06-13 11:29:37 -0400
+Processing by SayController#bye as HTML
+  Parameters: {"code"=>"29914411f35e791c0c1656468d14aeecfc83a9b0669f7ecd7286f115cefe92cc", "scope"=>"", "state"=>nil}
+  Rendered text template (0.0ms)
+Completed 200 OK in 10ms (Views: 1.1ms)
+
+
+Started GET "/say/hello" for 127.0.0.1 at 2012-06-13 11:29:45 -0400
+Processing by SayController#hello as HTML
+Redirected to http://localhost:3000/oauth/authorize?client_id=4fd7b186503dd47e740000da&redirect_uri=http://localhost:3002/say/bye&response_type=code&scope=
+Completed 302 Found in 0ms
+
+
+Started GET "/say/bye?code=4c627df9c8ceedf74d53073c518dfc25070fa92482f786debe83fdd7fd91d3a8&scope=&state" for 127.0.0.1 at 2012-06-13 11:29:47 -0400
+Processing by SayController#bye as HTML
+  Parameters: {"code"=>"4c627df9c8ceedf74d53073c518dfc25070fa92482f786debe83fdd7fd91d3a8", "scope"=>"", "state"=>nil}
+  Rendered text template (0.0ms)
+Completed 200 OK in 8ms (Views: 0.6ms)
+
+
+Started GET "/say/bye?code=4c627df9c8ceedf74d53073c518dfc25070fa92482f786debe83fdd7fd91d3a8&scope=&state" for 127.0.0.1 at 2012-06-13 11:30:15 -0400
+Processing by SayController#bye as HTML
+  Parameters: {"code"=>"4c627df9c8ceedf74d53073c518dfc25070fa92482f786debe83fdd7fd91d3a8", "scope"=>"", "state"=>nil}
+  Rendered text template (0.0ms)
+Completed 200 OK in 57ms (Views: 1.0ms)
+
+
+Started GET "/say/bye?code=d6546752601992f79e65512436ea939f15be26a710613e48090b65f5122b6e58&scope=&state" for 127.0.0.1 at 2012-06-13 11:30:17 -0400
+Processing by SayController#bye as HTML
+  Parameters: {"code"=>"d6546752601992f79e65512436ea939f15be26a710613e48090b65f5122b6e58", "scope"=>"", "state"=>nil}
+  Rendered text template (0.0ms)
+Completed 200 OK in 8ms (Views: 0.4ms)
+
+
+Started GET "/say/bye?code=d6546752601992f79e65512436ea939f15be26a710613e48090b65f5122b6e58&scope=&state" for 127.0.0.1 at 2012-06-13 11:30:37 -0400
+Processing by SayController#bye as HTML
+  Parameters: {"code"=>"d6546752601992f79e65512436ea939f15be26a710613e48090b65f5122b6e58", "scope"=>"", "state"=>nil}
+  Rendered text template (0.0ms)
+Completed 200 OK in 10ms (Views: 1.0ms)
+
+
+Started GET "/say/bye?code=d6546752601992f79e65512436ea939f15be26a710613e48090b65f5122b6e58&scope=&state" for 127.0.0.1 at 2012-06-13 11:30:38 -0400
+Processing by SayController#bye as HTML
+  Parameters: {"code"=>"d6546752601992f79e65512436ea939f15be26a710613e48090b65f5122b6e58", "scope"=>"", "state"=>nil}
+  Rendered text template (0.0ms)
+Completed 200 OK in 8ms (Views: 0.7ms)
+
+
+Started GET "/say/bye?code=d6546752601992f79e65512436ea939f15be26a710613e48090b65f5122b6e58&scope=&state" for 127.0.0.1 at 2012-06-13 11:30:39 -0400
+Processing by SayController#bye as HTML
+  Parameters: {"code"=>"d6546752601992f79e65512436ea939f15be26a710613e48090b65f5122b6e58", "scope"=>"", "state"=>nil}
+  Rendered text template (0.0ms)
+Completed 200 OK in 12ms (Views: 0.4ms)
+
+
+Started GET "/say/bye?code=d6546752601992f79e65512436ea939f15be26a710613e48090b65f5122b6e58&scope=&state" for 127.0.0.1 at 2012-06-13 11:32:02 -0400
+Processing by SayController#bye as HTML
+  Parameters: {"code"=>"d6546752601992f79e65512436ea939f15be26a710613e48090b65f5122b6e58", "scope"=>"", "state"=>nil}
+  Rendered text template (0.0ms)
+Completed 200 OK in 11ms (Views: 1.0ms)
+
+
+Started GET "/say/bye?code=d6546752601992f79e65512436ea939f15be26a710613e48090b65f5122b6e58&scope=&state" for 127.0.0.1 at 2012-06-13 11:32:03 -0400
+Processing by SayController#bye as HTML
+  Parameters: {"code"=>"d6546752601992f79e65512436ea939f15be26a710613e48090b65f5122b6e58", "scope"=>"", "state"=>nil}
+  Rendered text template (0.0ms)
+Completed 200 OK in 8ms (Views: 0.4ms)
+
+
+Started GET "/say/bye?code=d6546752601992f79e65512436ea939f15be26a710613e48090b65f5122b6e58&scope=&state" for 127.0.0.1 at 2012-06-13 11:32:04 -0400
+Processing by SayController#bye as HTML
+  Parameters: {"code"=>"d6546752601992f79e65512436ea939f15be26a710613e48090b65f5122b6e58", "scope"=>"", "state"=>nil}
+  Rendered text template (0.0ms)
+Completed 200 OK in 11ms (Views: 0.4ms)
+
+
+Started GET "/say/hello" for 127.0.0.1 at 2012-06-13 11:32:19 -0400
+Processing by SayController#hello as HTML
+Redirected to http://localhost:3000/oauth/authorize?client_id=4fd7b186503dd47e740000da&redirect_uri=http://localhost:3002/say/bye&response_type=code&scope=
+Completed 302 Found in 1ms
+
+
+Started GET "/say/bye?code=d6546752601992f79e65512436ea939f15be26a710613e48090b65f5122b6e58&scope=&state" for 127.0.0.1 at 2012-06-13 11:33:05 -0400
+Processing by SayController#bye as HTML
+  Parameters: {"code"=>"d6546752601992f79e65512436ea939f15be26a710613e48090b65f5122b6e58", "scope"=>"", "state"=>nil}
+  Rendered text template (0.0ms)
+Completed 200 OK in 55ms (Views: 1.0ms)
+
+
+Started GET "/say/bye?code=d6546752601992f79e65512436ea939f15be26a710613e48090b65f5122b6e58&scope=&state" for 127.0.0.1 at 2012-06-13 11:33:06 -0400
+Processing by SayController#bye as HTML
+  Parameters: {"code"=>"d6546752601992f79e65512436ea939f15be26a710613e48090b65f5122b6e58", "scope"=>"", "state"=>nil}
+  Rendered text template (0.0ms)
+Completed 200 OK in 8ms (Views: 0.5ms)
+
+
+Started GET "/say/bye?code=d6546752601992f79e65512436ea939f15be26a710613e48090b65f5122b6e58&scope=&state" for 127.0.0.1 at 2012-06-13 11:33:07 -0400
+Processing by SayController#bye as HTML
+  Parameters: {"code"=>"d6546752601992f79e65512436ea939f15be26a710613e48090b65f5122b6e58", "scope"=>"", "state"=>nil}
+  Rendered text template (0.0ms)
+Completed 200 OK in 10ms (Views: 0.4ms)
+
+
+Started GET "/say/hello" for 127.0.0.1 at 2012-06-13 11:33:09 -0400
+Processing by SayController#hello as HTML
+Redirected to http://localhost:3000/oauth/authorize?client_id=4fd7b186503dd47e740000da&redirect_uri=http://localhost:3002/say/bye&response_type=code&scope=
+Completed 302 Found in 1ms
+
+
+Started GET "/say/bye?code=7ae87914dc757030ab325b3f881d36cd1364db8d8d0750dc7807507c1e47c98e&scope=&state" for 127.0.0.1 at 2012-06-13 11:33:10 -0400
+Processing by SayController#bye as HTML
+  Parameters: {"code"=>"7ae87914dc757030ab325b3f881d36cd1364db8d8d0750dc7807507c1e47c98e", "scope"=>"", "state"=>nil}
+  Rendered text template (0.0ms)
+Completed 200 OK in 8ms (Views: 0.5ms)
+
+
+Started GET "/say/hello" for 127.0.0.1 at 2012-06-13 11:43:52 -0400
+Processing by SayController#hello as HTML
+Redirected to http://localhost:3000/oauth/authorize?client_id=4fd7b186503dd47e740000da&redirect_uri=http://localhost:3002/say/bye&response_type=code&scope=
+Completed 302 Found in 0ms
+
+
+Started GET "/say/bye?code=990a16e1d8dac277e8dfca7f9ea016aa1ef7a5393acc49948c4bb613724d9f11&scope=&state" for 127.0.0.1 at 2012-06-13 11:43:54 -0400
+Processing by SayController#bye as HTML
+  Parameters: {"code"=>"990a16e1d8dac277e8dfca7f9ea016aa1ef7a5393acc49948c4bb613724d9f11", "scope"=>"", "state"=>nil}
+  Rendered text template (0.0ms)
+Completed 200 OK in 10ms (Views: 1.0ms)
+
+
+Started GET "/say/bye?code=990a16e1d8dac277e8dfca7f9ea016aa1ef7a5393acc49948c4bb613724d9f11&scope=&state" for 127.0.0.1 at 2012-06-13 11:46:26 -0400
+Processing by SayController#bye as HTML
+  Parameters: {"code"=>"990a16e1d8dac277e8dfca7f9ea016aa1ef7a5393acc49948c4bb613724d9f11", "scope"=>"", "state"=>nil}
+  Rendered text template (0.0ms)
+Completed 200 OK in 10ms (Views: 0.5ms)
+
+
+Started GET "/say/bye?code=990a16e1d8dac277e8dfca7f9ea016aa1ef7a5393acc49948c4bb613724d9f11&scope=&state" for 127.0.0.1 at 2012-06-13 11:46:27 -0400
+Processing by SayController#bye as HTML
+  Parameters: {"code"=>"990a16e1d8dac277e8dfca7f9ea016aa1ef7a5393acc49948c4bb613724d9f11", "scope"=>"", "state"=>nil}
+  Rendered text template (0.0ms)
+Completed 200 OK in 11ms (Views: 0.4ms)
+
+
+Started GET "/say/bye?code=990a16e1d8dac277e8dfca7f9ea016aa1ef7a5393acc49948c4bb613724d9f11&scope=&state" for 127.0.0.1 at 2012-06-13 11:46:28 -0400
+Processing by SayController#bye as HTML
+  Parameters: {"code"=>"990a16e1d8dac277e8dfca7f9ea016aa1ef7a5393acc49948c4bb613724d9f11", "scope"=>"", "state"=>nil}
+  Rendered text template (0.0ms)
+Completed 200 OK in 9ms (Views: 0.5ms)
+
+
+Started GET "/say/bye?code=990a16e1d8dac277e8dfca7f9ea016aa1ef7a5393acc49948c4bb613724d9f11&scope=&state" for 127.0.0.1 at 2012-06-13 11:47:18 -0400
+Processing by SayController#bye as HTML
+  Parameters: {"code"=>"990a16e1d8dac277e8dfca7f9ea016aa1ef7a5393acc49948c4bb613724d9f11", "scope"=>"", "state"=>nil}
+  Rendered text template (0.0ms)
+Completed 200 OK in 12ms (Views: 1.1ms)
+
+
+Started GET "/say/hello" for 127.0.0.1 at 2012-06-13 11:47:21 -0400
+Processing by SayController#hello as HTML
+Redirected to http://localhost:3000/oauth/authorize?client_id=4fd7b186503dd47e740000da&redirect_uri=http://localhost:3002/say/bye&response_type=token&scope=
+Completed 302 Found in 0ms
+
+
+Started GET "/say/bye" for 127.0.0.1 at 2012-06-13 11:47:23 -0400
+Processing by SayController#bye as HTML
+  Rendered text template (0.0ms)
+Completed 200 OK in 8ms (Views: 0.5ms)
+
+
+Started GET "/say/bye" for 127.0.0.1 at 2012-06-13 11:47:41 -0400
+Processing by SayController#bye as HTML
+  Rendered text template (0.0ms)
+Completed 200 OK in 12ms (Views: 1.0ms)
+
+
+Started GET "/say/bye" for 127.0.0.1 at 2012-06-13 11:47:42 -0400
+Processing by SayController#bye as HTML
+  Rendered text template (0.0ms)
+Completed 200 OK in 8ms (Views: 0.5ms)
+
+
+Started GET "/say/hello" for 127.0.0.1 at 2012-06-13 11:47:45 -0400
+Processing by SayController#hello as HTML
+Redirected to http://localhost:3000/oauth/authorize?client_id=4fd7b186503dd47e740000da&redirect_uri=http://localhost:3002/say/bye&response_type=code&scope=
+Completed 302 Found in 1ms
+
+
+Started GET "/say/bye?code=a5dcc21086f22a7aa3518485fc51c83c308eba2e6c143eff1de21e5ec073fbb9&scope=&state" for 127.0.0.1 at 2012-06-13 11:47:47 -0400
+Processing by SayController#bye as HTML
+  Parameters: {"code"=>"a5dcc21086f22a7aa3518485fc51c83c308eba2e6c143eff1de21e5ec073fbb9", "scope"=>"", "state"=>nil}
+  Rendered text template (0.0ms)
+Completed 200 OK in 9ms (Views: 0.5ms)
+
+
+Started GET "/say/hello" for 127.0.0.1 at 2012-06-13 11:55:26 -0400
+Processing by SayController#hello as HTML
+Redirected to http://localhost:3000/oauth/authorize?client_id=4fd7b186503dd47e740000da&redirect_uri=http://localhost:3002/say/bye&response_type=code&scope=
+Completed 302 Found in 0ms
+
+
+Started GET "/say/bye?code=af4760bc6b97bcd3479f059cee2ed417a5c203b3c2dc6ddae4b3a341b30b74fd&scope=&state" for 127.0.0.1 at 2012-06-13 11:55:28 -0400
+Processing by SayController#bye as HTML
+  Parameters: {"code"=>"af4760bc6b97bcd3479f059cee2ed417a5c203b3c2dc6ddae4b3a341b30b74fd", "scope"=>"", "state"=>nil}
+  Rendered text template (0.0ms)
+Completed 200 OK in 11ms (Views: 1.0ms)
+
+
+Started GET "/say/bye?code=515adfe4d2cb9eec3721477c237347efaa85594581985e0dd24a14b18616b1aa&scope=&state" for 127.0.0.1 at 2012-06-13 11:57:07 -0400
+Processing by SayController#bye as HTML
+  Parameters: {"code"=>"515adfe4d2cb9eec3721477c237347efaa85594581985e0dd24a14b18616b1aa", "scope"=>"", "state"=>nil}
+  Rendered text template (0.0ms)
+Completed 200 OK in 9ms (Views: 0.5ms)
+
+
+Started GET "/say/hello" for 127.0.0.1 at 2012-06-13 11:57:11 -0400
+Processing by SayController#hello as HTML
+Redirected to http://localhost:3000/oauth/authorize?client_id=4fd7b186503dd47e740000da&redirect_uri=http://localhost:3002/say/bye&response_type=code&scope=
+Completed 302 Found in 0ms
+
+
+Started GET "/say/bye?code=2faa85796d50ecca3ab28fa09155e3eff1175edc082d32776f874205abd6b323&scope=&state" for 127.0.0.1 at 2012-06-13 11:57:13 -0400
+Processing by SayController#bye as HTML
+  Parameters: {"code"=>"2faa85796d50ecca3ab28fa09155e3eff1175edc082d32776f874205abd6b323", "scope"=>"", "state"=>nil}
+  Rendered text template (0.0ms)
+Completed 200 OK in 9ms (Views: 0.5ms)
+
+
+Started GET "/say/hello" for 127.0.0.1 at 2012-06-13 11:59:37 -0400
+Processing by SayController#hello as HTML
+Redirected to http://localhost:3000/oauth/authorize?client_id=4fd7b186503dd47e740000da&redirect_uri=http://localhost:3002/say/bye&response_type=code&scope=
+Completed 302 Found in 0ms
+
+
+Started GET "/say/bye?code=edf6ade61e96f75775a6a87308a9999b438e9270c927cf32e8276ff23380bc4d&scope=&state" for 127.0.0.1 at 2012-06-13 11:59:39 -0400
+Processing by SayController#bye as HTML
+  Parameters: {"code"=>"edf6ade61e96f75775a6a87308a9999b438e9270c927cf32e8276ff23380bc4d", "scope"=>"", "state"=>nil}
+  Rendered text template (0.0ms)
+Completed 200 OK in 9ms (Views: 0.4ms)
+
+
+Started GET "/say/hello" for 127.0.0.1 at 2012-06-13 11:59:57 -0400
+Processing by SayController#hello as HTML
+Redirected to http://localhost:3000/oauth/authorize?client_id=4fd7b186503dd47e740000da&redirect_uri=http://localhost:3002/say/bye&response_type=code&scope=
+Completed 302 Found in 0ms
+
+
+Started GET "/say/hello" for 127.0.0.1 at 2012-06-13 12:01:23 -0400
+Processing by SayController#hello as HTML
+Redirected to http://localhost:3000/oauth/authorize?client_id=4fd7b186503dd47e740000da&redirect_uri=http://localhost:3002/say/bye&response_type=token&scope=
+Completed 302 Found in 0ms
+
+
+Started GET "/say/bye" for 127.0.0.1 at 2012-06-13 12:01:25 -0400
+Processing by SayController#bye as HTML
+  Rendered text template (0.0ms)
+Completed 200 OK in 10ms (Views: 1.0ms)
+
+
+Started GET "/say/hello" for 127.0.0.1 at 2012-06-13 12:02:23 -0400
+Processing by SayController#hello as HTML
+Redirected to http://localhost:3000/oauth/authorize?client_id=4fd7b186503dd47e740000da&redirect_uri=http://localhost:3002/say/bye&response_type=token&scope=
+Completed 302 Found in 1ms
+
+
+Started GET "/say/bye" for 127.0.0.1 at 2012-06-13 12:02:25 -0400
+Processing by SayController#bye as HTML
+  Rendered text template (0.0ms)
+Completed 200 OK in 9ms (Views: 1.0ms)
+
+
+Started GET "/say/bye" for 127.0.0.1 at 2012-06-13 12:02:33 -0400
+Processing by SayController#bye as HTML
+  Rendered text template (0.0ms)
+Completed 200 OK in 12ms (Views: 1.0ms)
+
+
+Started GET "/say/bye" for 127.0.0.1 at 2012-06-13 12:02:34 -0400
+Processing by SayController#bye as HTML
+  Rendered text template (0.0ms)
+Completed 200 OK in 8ms (Views: 0.4ms)
+
+
+Started GET "/say/bye" for 127.0.0.1 at 2012-06-13 12:06:15 -0400
+Processing by SayController#bye as HTML
+  Rendered text template (0.0ms)
+Completed 200 OK in 12ms (Views: 1.4ms)
+
+
+Started GET "/say/bye" for 127.0.0.1 at 2012-06-13 12:06:32 -0400
+Processing by SayController#bye as HTML
+  Rendered text template (0.0ms)
+Completed 200 OK in 13ms (Views: 1.1ms)
+
+
+Started GET "/say/bye" for 127.0.0.1 at 2012-06-13 12:06:32 -0400
+Processing by SayController#bye as HTML
+  Rendered text template (0.0ms)
+Completed 200 OK in 10ms (Views: 0.4ms)
+
+
+Started GET "/say/hello" for 127.0.0.1 at 2012-06-13 12:06:36 -0400
+Processing by SayController#hello as HTML
+Redirected to http://localhost:3000/oauth/authorize?client_id=&redirect_uri=http://localhost:3002/say/bye&response_type=token&scope=
+Completed 302 Found in 1ms
+
+
+Started GET "/say/bye" for 127.0.0.1 at 2012-06-13 12:06:36 -0400
+Processing by SayController#bye as HTML
+  Rendered text template (0.0ms)
+Completed 200 OK in 9ms (Views: 0.5ms)
+
+
+Started GET "/say/hello" for 127.0.0.1 at 2012-06-13 12:06:40 -0400
+Processing by SayController#hello as HTML
+Redirected to http://localhost:3000/oauth/authorize?client_id=&redirect_uri=http://localhost:3002/say/bye&response_type=token&scope=
+Completed 302 Found in 0ms
+
+
+Started GET "/say/bye" for 127.0.0.1 at 2012-06-13 12:06:40 -0400
+Processing by SayController#bye as HTML
+  Rendered text template (0.0ms)
+Completed 200 OK in 10ms (Views: 0.4ms)
+
+
+Started GET "/say/bye" for 127.0.0.1 at 2012-06-13 12:07:02 -0400
+Processing by SayController#bye as HTML
+  Rendered text template (0.0ms)
+Completed 200 OK in 13ms (Views: 1.4ms)
+
+
+Started GET "/say/hello" for 127.0.0.1 at 2012-06-13 12:07:04 -0400
+Processing by SayController#hello as HTML
+Redirected to http://localhost:3000/oauth/authorize?client_id=&redirect_uri=http://localhost:3002/say/bye&response_type=code&scope=
+Completed 302 Found in 1ms
+
+
+Started GET "/say/bye?error=invalid_client&error_description=Client+ID+and+client+secret+do+not+match.&state" for 127.0.0.1 at 2012-06-13 12:07:04 -0400
+Processing by SayController#bye as HTML
+  Parameters: {"error"=>"invalid_client", "error_description"=>"Client ID and client secret do not match.", "state"=>nil}
+  Rendered text template (0.0ms)
+Completed 200 OK in 9ms (Views: 0.5ms)
+
+
+Started GET "/say/bye?error=invalid_client&error_description=Client+ID+and+client+secret+do+not+match.&state" for 127.0.0.1 at 2012-06-13 12:07:19 -0400
+Processing by SayController#bye as HTML
+  Parameters: {"error"=>"invalid_client", "error_description"=>"Client ID and client secret do not match.", "state"=>nil}
+  Rendered text template (0.0ms)
+Completed 200 OK in 13ms (Views: 1.0ms)
+
+
+Started GET "/say/hello" for 127.0.0.1 at 2012-06-13 12:07:22 -0400
+Processing by SayController#hello as HTML
+Redirected to http://localhost:3000/oauth/authorize?client_id=4fd7b186503dd47e740000da&redirect_uri=http://localhost:3002/say/bye&response_type=code&scope=
+Completed 302 Found in 1ms
+
+
+Started GET "/say/bye?code=66196a614efffe04acbbf52a100a83b496524495ab4b694c5eea65065e699beb&scope=&state" for 127.0.0.1 at 2012-06-13 12:07:26 -0400
+Processing by SayController#bye as HTML
+  Parameters: {"code"=>"66196a614efffe04acbbf52a100a83b496524495ab4b694c5eea65065e699beb", "scope"=>"", "state"=>nil}
+  Rendered text template (0.0ms)
+Completed 200 OK in 11ms (Views: 0.5ms)
+
+
+Started GET "/say/hello" for 127.0.0.1 at 2012-06-13 12:08:01 -0400
+Processing by SayController#hello as HTML
+Redirected to http://localhost:3000/oauth/authorize?client_id=4fd7b186503dd47e740000da&redirect_uri=http://localhost:3002/say/bye&response_type=code&scope=
+Completed 302 Found in 2ms
+
+
+Started GET "/say/bye?code=8fa1a0ac16db337645b4317e0b59880b800fb0ac2066172b52cf9588fcff346d&scope=&state" for 127.0.0.1 at 2012-06-13 12:08:03 -0400
+Processing by SayController#bye as HTML
+  Parameters: {"code"=>"8fa1a0ac16db337645b4317e0b59880b800fb0ac2066172b52cf9588fcff346d", "scope"=>"", "state"=>nil}
+  Rendered text template (0.0ms)
+Completed 200 OK in 14ms (Views: 1.0ms)
+
+
+Started GET "/say/bye?code=8fa1a0ac16db337645b4317e0b59880b800fb0ac2066172b52cf9588fcff346d&scope=&state" for 127.0.0.1 at 2012-06-13 12:08:19 -0400
+Processing by SayController#bye as HTML
+  Parameters: {"code"=>"8fa1a0ac16db337645b4317e0b59880b800fb0ac2066172b52cf9588fcff346d", "scope"=>"", "state"=>nil}
+  Rendered text template (0.0ms)
+Completed 200 OK in 14ms (Views: 1.5ms)
+
+
+Started GET "/say/bye?code=8fa1a0ac16db337645b4317e0b59880b800fb0ac2066172b52cf9588fcff346d&scope=&state" for 127.0.0.1 at 2012-06-13 12:08:20 -0400
+Processing by SayController#bye as HTML
+  Parameters: {"code"=>"8fa1a0ac16db337645b4317e0b59880b800fb0ac2066172b52cf9588fcff346d", "scope"=>"", "state"=>nil}
+  Rendered text template (0.0ms)
+Completed 200 OK in 12ms (Views: 0.4ms)
+
+
+Started GET "/say/bye?code=8fa1a0ac16db337645b4317e0b59880b800fb0ac2066172b52cf9588fcff346d&scope=&state" for 127.0.0.1 at 2012-06-13 12:08:30 -0400
+Processing by SayController#bye as HTML
+  Parameters: {"code"=>"8fa1a0ac16db337645b4317e0b59880b800fb0ac2066172b52cf9588fcff346d", "scope"=>"", "state"=>nil}
+  Rendered text template (0.0ms)
+Completed 200 OK in 14ms (Views: 1.1ms)
+
+
+Started GET "/say/bye?code=8fa1a0ac16db337645b4317e0b59880b800fb0ac2066172b52cf9588fcff346d&scope=&state" for 127.0.0.1 at 2012-06-13 12:08:37 -0400
+Processing by SayController#bye as HTML
+  Parameters: {"code"=>"8fa1a0ac16db337645b4317e0b59880b800fb0ac2066172b52cf9588fcff346d", "scope"=>"", "state"=>nil}
+  Rendered text template (0.0ms)
+Completed 200 OK in 14ms (Views: 1.1ms)
+
+
+Started GET "/say/hello" for 127.0.0.1 at 2012-06-13 12:08:43 -0400
+Processing by SayController#hello as HTML
+Redirected to http://localhost:3000/oauth/authorize?client_id=4fd7b186503dd47e740000da&redirect_uri=http://localhost:3002/say/bye&response_type=code&scope=
+Completed 302 Found in 1ms
+
+
+Started GET "/say/bye?code=04af447a46610b7dc49f4cd6019247ae81f9ce31058f3fa0d48b0a20e7793d28&scope=&state" for 127.0.0.1 at 2012-06-13 12:08:45 -0400
+Processing by SayController#bye as HTML
+  Parameters: {"code"=>"04af447a46610b7dc49f4cd6019247ae81f9ce31058f3fa0d48b0a20e7793d28", "scope"=>"", "state"=>nil}
+  Rendered text template (0.0ms)
+Completed 200 OK in 13ms (Views: 0.6ms)
+
+
+Started GET "/say/hello" for 127.0.0.1 at 2012-06-13 12:11:34 -0400
+Processing by SayController#hello as HTML
+Redirected to http://localhost:3000/oauth/authorize?client_id=4fd7b186503dd47e740000da&redirect_uri=http://localhost:3002/say/bye&response_type=code&scope=
+Completed 302 Found in 0ms
+
+
+Started GET "/say/bye?code=ebb84a3524df67fe3d23266a7e06565b2341322b6635d954ef7faabbfdbaa0bc&scope=&state" for 127.0.0.1 at 2012-06-13 12:11:36 -0400
+Processing by SayController#bye as HTML
+  Parameters: {"code"=>"ebb84a3524df67fe3d23266a7e06565b2341322b6635d954ef7faabbfdbaa0bc", "scope"=>"", "state"=>nil}
+  Rendered text template (0.0ms)
+Completed 200 OK in 25ms (Views: 1.4ms)
+
+
+Started GET "/say/hello" for 127.0.0.1 at 2012-06-13 12:22:54 -0400
+Processing by SayController#hello as HTML
+Redirected to http://localhost:3000/oauth/authorize?client_id=4fd7b186503dd47e740000da&redirect_uri=http://localhost:3002/say/bye&response_type=code&scope=
+Completed 302 Found in 1ms
+
+
+Started GET "/say/bye?code=e08e93cd1508d221354d66a280e25c680e64efab63defb5c5abba62a9224296d&scope=&state" for 127.0.0.1 at 2012-06-13 12:22:55 -0400
+Processing by SayController#bye as HTML
+  Parameters: {"code"=>"e08e93cd1508d221354d66a280e25c680e64efab63defb5c5abba62a9224296d", "scope"=>"", "state"=>nil}
+Completed 500 Internal Server Error in 13ms
+
+NoMethodError (undefined method `empty?' for #<URI::HTTP:0x00000102afa390>):
+  app/controllers/say_controller.rb:25:in `new'
+  app/controllers/say_controller.rb:25:in `bye'
+
+
+  Rendered /Users/danieljeng1/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.3/lib/action_dispatch/middleware/templates/rescues/_trace.erb (3.1ms)
+  Rendered /Users/danieljeng1/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.3/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.2ms)
+  Rendered /Users/danieljeng1/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.3/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (13.9ms)
+
+
+Started GET "/say/bye?code=edf6ade61e96f75775a6a87308a9999b438e9270c927cf32e8276ff23380bc4d&scope=&state" for 127.0.0.1 at 2012-06-13 12:23:53 -0400
+Processing by SayController#bye as HTML
+  Parameters: {"code"=>"edf6ade61e96f75775a6a87308a9999b438e9270c927cf32e8276ff23380bc4d", "scope"=>"", "state"=>nil}
+  Rendered text template (0.0ms)
+Completed 200 OK in 39ms (Views: 1.0ms)
+
+
+Started GET "/say/hello" for 127.0.0.1 at 2012-06-13 12:24:01 -0400
+Processing by SayController#hello as HTML
+Redirected to http://localhost:3000/oauth/authorize?client_id=4fd7b186503dd47e740000da&redirect_uri=http://localhost:3002/say/bye&response_type=code&scope=
+Completed 302 Found in 2ms
+
+
+Started GET "/say/bye?code=bc5f49e76386b253783acc84f1f769c3e2f2ea6d968a7432ec4cb458c7dd5693&scope=&state" for 127.0.0.1 at 2012-06-13 12:24:03 -0400
+Processing by SayController#bye as HTML
+  Parameters: {"code"=>"bc5f49e76386b253783acc84f1f769c3e2f2ea6d968a7432ec4cb458c7dd5693", "scope"=>"", "state"=>nil}
+  Rendered text template (0.0ms)
+Completed 200 OK in 39ms (Views: 0.6ms)
+
+
+Started GET "/say/bye?code=bc5f49e76386b253783acc84f1f769c3e2f2ea6d968a7432ec4cb458c7dd5693&scope=&state" for 127.0.0.1 at 2012-06-13 12:24:10 -0400
+Processing by SayController#bye as HTML
+  Parameters: {"code"=>"bc5f49e76386b253783acc84f1f769c3e2f2ea6d968a7432ec4cb458c7dd5693", "scope"=>"", "state"=>nil}
+Completed 500 Internal Server Error in 61ms
+
+NoMethodError (undefined method `[]' for nil:NilClass):
+  app/controllers/say_controller.rb:28:in `bye'
+
+
+  Rendered /Users/danieljeng1/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.3/lib/action_dispatch/middleware/templates/rescues/_trace.erb (3.0ms)
+  Rendered /Users/danieljeng1/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.3/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.2ms)
+  Rendered /Users/danieljeng1/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.3/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (11.7ms)
+
+
+Started GET "/say/hello" for 127.0.0.1 at 2012-06-13 12:24:15 -0400
+Processing by SayController#hello as HTML
+Redirected to http://localhost:3000/oauth/authorize?client_id=4fd7b186503dd47e740000da&redirect_uri=http://localhost:3002/say/bye&response_type=code&scope=
+Completed 302 Found in 1ms
+
+
+Started GET "/say/bye?code=8b68ff795850ed1f2a944fb42a0147b119ac331250adafc06dd96d1b323d26b6&scope=&state" for 127.0.0.1 at 2012-06-13 12:24:16 -0400
+Processing by SayController#bye as HTML
+  Parameters: {"code"=>"8b68ff795850ed1f2a944fb42a0147b119ac331250adafc06dd96d1b323d26b6", "scope"=>"", "state"=>nil}
+Completed 500 Internal Server Error in 13ms
+
+NoMethodError (undefined method `[]' for nil:NilClass):
+  app/controllers/say_controller.rb:28:in `bye'
+
+
+  Rendered /Users/danieljeng1/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.3/lib/action_dispatch/middleware/templates/rescues/_trace.erb (3.0ms)
+  Rendered /Users/danieljeng1/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.3/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.5ms)
+  Rendered /Users/danieljeng1/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.3/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (13.1ms)
+
+
+Started GET "/say/hello" for 127.0.0.1 at 2012-06-13 12:26:23 -0400
+Processing by SayController#hello as HTML
+Redirected to http://localhost:3000/oauth/authorize?client_id=4fd7b186503dd47e740000da&redirect_uri=http://localhost:3002/say/bye&response_type=code&scope=
+Completed 302 Found in 0ms
+
+
+Started GET "/say/bye?code=c919de18adf7256cbf4cf6b6c8ae25b9682cdc0f0997bb52db3300c970b79164&scope=&state" for 127.0.0.1 at 2012-06-13 12:26:24 -0400
+Processing by SayController#bye as HTML
+  Parameters: {"code"=>"c919de18adf7256cbf4cf6b6c8ae25b9682cdc0f0997bb52db3300c970b79164", "scope"=>"", "state"=>nil}
+Completed 500 Internal Server Error in 14ms
+
+NoMethodError (undefined method `[]' for nil:NilClass):
+  app/controllers/say_controller.rb:28:in `bye'
+
+
+  Rendered /Users/danieljeng1/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.3/lib/action_dispatch/middleware/templates/rescues/_trace.erb (3.6ms)
+  Rendered /Users/danieljeng1/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.3/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.4ms)
+  Rendered /Users/danieljeng1/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.3/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (12.4ms)
+
+
+Started GET "/say/hello" for 127.0.0.1 at 2012-06-13 12:26:50 -0400
+Processing by SayController#hello as HTML
+Redirected to http://localhost:3000/oauth/authorize?client_id=4fd7b186503dd47e740000da&redirect_uri=http://localhost:3002/say/bye&response_type=code&scope=
+Completed 302 Found in 31ms
+
+
+Started GET "/say/bye?code=6f189a8e97fdbe798b11ae0e1e8023dda42389554f74647127e2b49bf4f73be1&scope=&state" for 127.0.0.1 at 2012-06-13 12:26:52 -0400
+Processing by SayController#bye as HTML
+  Parameters: {"code"=>"6f189a8e97fdbe798b11ae0e1e8023dda42389554f74647127e2b49bf4f73be1", "scope"=>"", "state"=>nil}
+  Rendered text template (0.0ms)
+Completed 200 OK in 36ms (Views: 1.0ms)
+
+
+Started GET "/say/bye?code=6f189a8e97fdbe798b11ae0e1e8023dda42389554f74647127e2b49bf4f73be1&scope=&state" for 127.0.0.1 at 2012-06-13 12:27:10 -0400
+Processing by SayController#bye as HTML
+  Parameters: {"code"=>"6f189a8e97fdbe798b11ae0e1e8023dda42389554f74647127e2b49bf4f73be1", "scope"=>"", "state"=>nil}
+  Rendered text template (0.0ms)
+Completed 200 OK in 23ms (Views: 1.0ms)
+
+
+Started GET "/say/hello" for 127.0.0.1 at 2012-06-13 12:27:14 -0400
+Processing by SayController#hello as HTML
+Redirected to http://localhost:3000/oauth/authorize?client_id=4fd7b186503dd47e740000da&redirect_uri=http://localhost:3002/say/bye&response_type=code&scope=
+Completed 302 Found in 1ms
+
+
+Started GET "/say/bye?code=4a01da646a90a164a99df97e47dc3e03a92f663c03c1ab7cddbe9404340d9a8a&scope=&state" for 127.0.0.1 at 2012-06-13 12:27:15 -0400
+Processing by SayController#bye as HTML
+  Parameters: {"code"=>"4a01da646a90a164a99df97e47dc3e03a92f663c03c1ab7cddbe9404340d9a8a", "scope"=>"", "state"=>nil}
+  Rendered text template (0.0ms)
+Completed 200 OK in 40ms (Views: 0.5ms)
+
+
+Started GET "/say/hello" for 127.0.0.1 at 2012-06-13 14:30:36 -0400
+Processing by SayController#hello as HTML
+Completed 500 Internal Server Error in 2ms
+
+NameError (undefined local variable or method `setup_token' for #<SayController:0x00000103548f40>):
+  activesupport (3.2.3) lib/active_support/callbacks.rb:418:in `_run__323468795089695979__process_action__1608884446851069101__callbacks'
+  activesupport (3.2.3) lib/active_support/callbacks.rb:405:in `__run_callback'
+  activesupport (3.2.3) lib/active_support/callbacks.rb:385:in `_run_process_action_callbacks'
+  activesupport (3.2.3) lib/active_support/callbacks.rb:81:in `run_callbacks'
+  actionpack (3.2.3) lib/abstract_controller/callbacks.rb:17:in `process_action'
+  actionpack (3.2.3) lib/action_controller/metal/rescue.rb:29:in `process_action'
+  actionpack (3.2.3) lib/action_controller/metal/instrumentation.rb:30:in `block in process_action'
+  activesupport (3.2.3) lib/active_support/notifications.rb:123:in `block in instrument'
+  activesupport (3.2.3) lib/active_support/notifications/instrumenter.rb:20:in `instrument'
+  activesupport (3.2.3) lib/active_support/notifications.rb:123:in `instrument'
+  actionpack (3.2.3) lib/action_controller/metal/instrumentation.rb:29:in `process_action'
+  actionpack (3.2.3) lib/action_controller/metal/params_wrapper.rb:205:in `process_action'
+  actionpack (3.2.3) lib/abstract_controller/base.rb:121:in `process'
+  actionpack (3.2.3) lib/abstract_controller/rendering.rb:45:in `process'
+  actionpack (3.2.3) lib/action_controller/metal.rb:203:in `dispatch'
+  actionpack (3.2.3) lib/action_controller/metal/rack_delegation.rb:14:in `dispatch'
+  actionpack (3.2.3) lib/action_controller/metal.rb:246:in `block in action'
+  actionpack (3.2.3) lib/action_dispatch/routing/route_set.rb:73:in `call'
+  actionpack (3.2.3) lib/action_dispatch/routing/route_set.rb:73:in `dispatch'
+  actionpack (3.2.3) lib/action_dispatch/routing/route_set.rb:36:in `call'
+  journey (1.0.3) lib/journey/router.rb:68:in `block in call'
+  journey (1.0.3) lib/journey/router.rb:56:in `each'
+  journey (1.0.3) lib/journey/router.rb:56:in `call'
+  actionpack (3.2.3) lib/action_dispatch/routing/route_set.rb:600:in `call'
+  mongo_mapper (0.11.1) lib/mongo_mapper/middleware/identity_map.rb:10:in `call'
+  rack-oauth2-server (2.6.0) lib/rack/oauth2/server.rb:272:in `call'
+  actionpack (3.2.3) lib/action_dispatch/middleware/best_standards_support.rb:17:in `call'
+  rack (1.4.1) lib/rack/etag.rb:23:in `call'
+  rack (1.4.1) lib/rack/conditionalget.rb:25:in `call'
+  actionpack (3.2.3) lib/action_dispatch/middleware/head.rb:14:in `call'
+  actionpack (3.2.3) lib/action_dispatch/middleware/params_parser.rb:21:in `call'
+  actionpack (3.2.3) lib/action_dispatch/middleware/flash.rb:242:in `call'
+  rack (1.4.1) lib/rack/session/abstract/id.rb:205:in `context'
+  rack (1.4.1) lib/rack/session/abstract/id.rb:200:in `call'
+  actionpack (3.2.3) lib/action_dispatch/middleware/cookies.rb:338:in `call'
+  actionpack (3.2.3) lib/action_dispatch/middleware/callbacks.rb:28:in `block in call'
+  activesupport (3.2.3) lib/active_support/callbacks.rb:405:in `_run__1104671301957495427__call__3102620508710641093__callbacks'
+  activesupport (3.2.3) lib/active_support/callbacks.rb:405:in `__run_callback'
+  activesupport (3.2.3) lib/active_support/callbacks.rb:385:in `_run_call_callbacks'
+  activesupport (3.2.3) lib/active_support/callbacks.rb:81:in `run_callbacks'
+  actionpack (3.2.3) lib/action_dispatch/middleware/callbacks.rb:27:in `call'
+  actionpack (3.2.3) lib/action_dispatch/middleware/reloader.rb:65:in `call'
+  actionpack (3.2.3) lib/action_dispatch/middleware/remote_ip.rb:31:in `call'
+  actionpack (3.2.3) lib/action_dispatch/middleware/debug_exceptions.rb:16:in `call'
+  actionpack (3.2.3) lib/action_dispatch/middleware/show_exceptions.rb:56:in `call'
+  railties (3.2.3) lib/rails/rack/logger.rb:26:in `call_app'
+  railties (3.2.3) lib/rails/rack/logger.rb:16:in `call'
+  actionpack (3.2.3) lib/action_dispatch/middleware/request_id.rb:22:in `call'
+  rack (1.4.1) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.4.1) lib/rack/runtime.rb:17:in `call'
+  activesupport (3.2.3) lib/active_support/cache/strategy/local_cache.rb:72:in `call'
+  rack (1.4.1) lib/rack/lock.rb:15:in `call'
+  actionpack (3.2.3) lib/action_dispatch/middleware/static.rb:62:in `call'
+  railties (3.2.3) lib/rails/engine.rb:479:in `call'
+  railties (3.2.3) lib/rails/application.rb:220:in `call'
+  rack (1.4.1) lib/rack/content_length.rb:14:in `call'
+  railties (3.2.3) lib/rails/rack/log_tailer.rb:14:in `call'
+  rack (1.4.1) lib/rack/handler/webrick.rb:59:in `service'
+  /Users/danieljeng1/.rvm/rubies/ruby-1.9.3-p194/lib/ruby/1.9.1/webrick/httpserver.rb:138:in `service'
+  /Users/danieljeng1/.rvm/rubies/ruby-1.9.3-p194/lib/ruby/1.9.1/webrick/httpserver.rb:94:in `run'
+  /Users/danieljeng1/.rvm/rubies/ruby-1.9.3-p194/lib/ruby/1.9.1/webrick/server.rb:191:in `block in start_thread'
+
+
+  Rendered /Users/danieljeng1/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.3/lib/action_dispatch/middleware/templates/rescues/_trace.erb (2.8ms)
+  Rendered /Users/danieljeng1/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.3/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.1ms)
+  Rendered /Users/danieljeng1/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.3/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (11.4ms)
+
+
+Started GET "/say/hello" for 127.0.0.1 at 2012-06-13 14:30:44 -0400
+Processing by SayController#hello as HTML
+Completed 500 Internal Server Error in 1ms
+
+NameError (uninitialized constant SayController::Client_id):
+  app/controllers/say_controller.rb:12:in `hello'
+
+
+  Rendered /Users/danieljeng1/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.3/lib/action_dispatch/middleware/templates/rescues/_trace.erb (3.0ms)
+  Rendered /Users/danieljeng1/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.3/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.1ms)
+  Rendered /Users/danieljeng1/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.3/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (11.4ms)
+
+
+Started GET "/say/hello" for 127.0.0.1 at 2012-06-13 14:30:53 -0400
+Processing by SayController#hello as HTML
+Redirected to http://localhost:3000/oauth/authorize?client_id=4fd7b186503dd47e740000da&redirect_uri=http://localhost:3002/say/bye&response_type=code&scope=
+Completed 302 Found in 1ms
+
+
+Started GET "/say/bye?code=17e1b1d12efa0df3b8472d446acc08f7c6565f2e3bab4990e43adf3819542520&scope=&state" for 127.0.0.1 at 2012-06-13 14:30:56 -0400
+
+AbstractController::ActionNotFound (The action 'bye' could not be found for SayController):
+  actionpack (3.2.3) lib/abstract_controller/base.rb:116:in `process'
+  actionpack (3.2.3) lib/abstract_controller/rendering.rb:45:in `process'
+  actionpack (3.2.3) lib/action_controller/metal.rb:203:in `dispatch'
+  actionpack (3.2.3) lib/action_controller/metal/rack_delegation.rb:14:in `dispatch'
+  actionpack (3.2.3) lib/action_controller/metal.rb:246:in `block in action'
+  actionpack (3.2.3) lib/action_dispatch/routing/route_set.rb:73:in `call'
+  actionpack (3.2.3) lib/action_dispatch/routing/route_set.rb:73:in `dispatch'
+  actionpack (3.2.3) lib/action_dispatch/routing/route_set.rb:36:in `call'
+  journey (1.0.3) lib/journey/router.rb:68:in `block in call'
+  journey (1.0.3) lib/journey/router.rb:56:in `each'
+  journey (1.0.3) lib/journey/router.rb:56:in `call'
+  actionpack (3.2.3) lib/action_dispatch/routing/route_set.rb:600:in `call'
+  mongo_mapper (0.11.1) lib/mongo_mapper/middleware/identity_map.rb:10:in `call'
+  rack-oauth2-server (2.6.0) lib/rack/oauth2/server.rb:272:in `call'
+  actionpack (3.2.3) lib/action_dispatch/middleware/best_standards_support.rb:17:in `call'
+  rack (1.4.1) lib/rack/etag.rb:23:in `call'
+  rack (1.4.1) lib/rack/conditionalget.rb:25:in `call'
+  actionpack (3.2.3) lib/action_dispatch/middleware/head.rb:14:in `call'
+  actionpack (3.2.3) lib/action_dispatch/middleware/params_parser.rb:21:in `call'
+  actionpack (3.2.3) lib/action_dispatch/middleware/flash.rb:242:in `call'
+  rack (1.4.1) lib/rack/session/abstract/id.rb:205:in `context'
+  rack (1.4.1) lib/rack/session/abstract/id.rb:200:in `call'
+  actionpack (3.2.3) lib/action_dispatch/middleware/cookies.rb:338:in `call'
+  actionpack (3.2.3) lib/action_dispatch/middleware/callbacks.rb:28:in `block in call'
+  activesupport (3.2.3) lib/active_support/callbacks.rb:405:in `_run__1104671301957495427__call__3102620508710641093__callbacks'
+  activesupport (3.2.3) lib/active_support/callbacks.rb:405:in `__run_callback'
+  activesupport (3.2.3) lib/active_support/callbacks.rb:385:in `_run_call_callbacks'
+  activesupport (3.2.3) lib/active_support/callbacks.rb:81:in `run_callbacks'
+  actionpack (3.2.3) lib/action_dispatch/middleware/callbacks.rb:27:in `call'
+  actionpack (3.2.3) lib/action_dispatch/middleware/reloader.rb:65:in `call'
+  actionpack (3.2.3) lib/action_dispatch/middleware/remote_ip.rb:31:in `call'
+  actionpack (3.2.3) lib/action_dispatch/middleware/debug_exceptions.rb:16:in `call'
+  actionpack (3.2.3) lib/action_dispatch/middleware/show_exceptions.rb:56:in `call'
+  railties (3.2.3) lib/rails/rack/logger.rb:26:in `call_app'
+  railties (3.2.3) lib/rails/rack/logger.rb:16:in `call'
+  actionpack (3.2.3) lib/action_dispatch/middleware/request_id.rb:22:in `call'
+  rack (1.4.1) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.4.1) lib/rack/runtime.rb:17:in `call'
+  activesupport (3.2.3) lib/active_support/cache/strategy/local_cache.rb:72:in `call'
+  rack (1.4.1) lib/rack/lock.rb:15:in `call'
+  actionpack (3.2.3) lib/action_dispatch/middleware/static.rb:62:in `call'
+  railties (3.2.3) lib/rails/engine.rb:479:in `call'
+  railties (3.2.3) lib/rails/application.rb:220:in `call'
+  rack (1.4.1) lib/rack/content_length.rb:14:in `call'
+  railties (3.2.3) lib/rails/rack/log_tailer.rb:14:in `call'
+  rack (1.4.1) lib/rack/handler/webrick.rb:59:in `service'
+  /Users/danieljeng1/.rvm/rubies/ruby-1.9.3-p194/lib/ruby/1.9.1/webrick/httpserver.rb:138:in `service'
+  /Users/danieljeng1/.rvm/rubies/ruby-1.9.3-p194/lib/ruby/1.9.1/webrick/httpserver.rb:94:in `run'
+  /Users/danieljeng1/.rvm/rubies/ruby-1.9.3-p194/lib/ruby/1.9.1/webrick/server.rb:191:in `block in start_thread'
+
+
+  Rendered /Users/danieljeng1/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.3/lib/action_dispatch/middleware/templates/rescues/unknown_action.erb within rescues/layout (0.5ms)
+
+
+Started GET "/say/hello" for 127.0.0.1 at 2012-06-13 14:31:31 -0400
+Processing by SayController#hello as HTML
+Redirected to http://localhost:3000/oauth/authorize?client_id=4fd7b186503dd47e740000da&redirect_uri=http://localhost:3002/say/bye&response_type=code&scope=
+Completed 302 Found in 0ms
+
+
+Started GET "/say/bye?code=a37a28ccdc8393dae88037029bd2ec7e908f6817e79545e953b6e2d8f5bb3adf&scope=&state" for 127.0.0.1 at 2012-06-13 14:31:32 -0400
+Processing by SayController#bye as HTML
+  Parameters: {"code"=>"a37a28ccdc8393dae88037029bd2ec7e908f6817e79545e953b6e2d8f5bb3adf", "scope"=>"", "state"=>nil}
+Completed 500 Internal Server Error in 1ms
+
+NameError (uninitialized constant SayController::Client_id):
+  app/controllers/say_controller.rb:41:in `get_token'
+  app/controllers/say_controller.rb:17:in `bye'
+
+
+  Rendered /Users/danieljeng1/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.3/lib/action_dispatch/middleware/templates/rescues/_trace.erb (3.2ms)
+  Rendered /Users/danieljeng1/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.3/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.2ms)
+  Rendered /Users/danieljeng1/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.3/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (11.6ms)
+
+
+Started GET "/say/hello" for 127.0.0.1 at 2012-06-13 14:31:44 -0400
+Processing by SayController#hello as HTML
+Redirected to http://localhost:3000/oauth/authorize?client_id=4fd7b186503dd47e740000da&redirect_uri=http://localhost:3002/say/bye&response_type=code&scope=
+Completed 302 Found in 0ms
+
+
+Started GET "/say/bye?code=a44861029d74a8f31cd438e5c78946ea00887eef173701be23f8d37bedc7a464&scope=&state" for 127.0.0.1 at 2012-06-13 14:31:46 -0400
+Processing by SayController#bye as HTML
+  Parameters: {"code"=>"a44861029d74a8f31cd438e5c78946ea00887eef173701be23f8d37bedc7a464", "scope"=>"", "state"=>nil}
+  Rendered text template (0.0ms)
+Completed 200 OK in 13ms (Views: 1.0ms)
+
+
+Started GET "/say/show" for 127.0.0.1 at 2012-06-13 14:31:54 -0400
+Processing by SayController#show as HTML
+Completed 500 Internal Server Error in 3ms
+
+NameError (undefined local variable or method `sesion' for #<SayController:0x00000100d00f88>):
+  app/controllers/say_controller.rb:32:in `show'
+
+
+  Rendered /Users/danieljeng1/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.3/lib/action_dispatch/middleware/templates/rescues/_trace.erb (3.1ms)
+  Rendered /Users/danieljeng1/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.3/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.2ms)
+  Rendered /Users/danieljeng1/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.3/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (12.1ms)
+
+
+Started GET "/say/show" for 127.0.0.1 at 2012-06-13 14:32:04 -0400
+Processing by SayController#show as HTML
+  Rendered say/show.html.erb within layouts/application (1.5ms)
+Completed 200 OK in 169ms (Views: 169.2ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-06-13 14:32:04 -0400
+Served asset /jquery.js - 304 Not Modified (44ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-06-13 14:32:04 -0400
+Served asset /application.js - 304 Not Modified (5ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-06-13 14:32:04 -0400
+Served asset /application.css - 304 Not Modified (2ms)
+
+
+Started GET "/assets/say.js?body=1" for 127.0.0.1 at 2012-06-13 14:32:04 -0400
+Served asset /say.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/say.css?body=1" for 127.0.0.1 at 2012-06-13 14:32:04 -0400
+Served asset /say.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-06-13 14:32:04 -0400
+Served asset /jquery_ujs.js - 304 Not Modified (3ms)
+
+
+Started GET "/say/show" for 127.0.0.1 at 2012-06-13 14:32:45 -0400
+Processing by SayController#show as HTML
+  Rendered say/show.html.erb within layouts/application (1.1ms)
+Completed 200 OK in 8ms (Views: 7.2ms)
+
+
+Started GET "/assets/say.css?body=1" for 127.0.0.1 at 2012-06-13 14:32:45 -0400
+Served asset /say.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-06-13 14:32:45 -0400
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-06-13 14:32:45 -0400
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-06-13 14:32:45 -0400
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/say.js?body=1" for 127.0.0.1 at 2012-06-13 14:32:45 -0400
+Served asset /say.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-06-13 14:32:45 -0400
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started POST "/say/hitapi" for 127.0.0.1 at 2012-06-13 14:32:47 -0400
+Processing by SayController#hitapi as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"vOvIoiVQx241GgBNwcAmuS+v+6yqEblSRTBXrfr69ME=", "urls"=>"asdf"}
+Completed 500 Internal Server Error in 2ms
+
+NameError (undefined local variable or method `param' for #<SayController:0x0000010296ceb0>):
+  app/controllers/say_controller.rb:22:in `hitapi'
+
+
+  Rendered /Users/danieljeng1/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.3/lib/action_dispatch/middleware/templates/rescues/_trace.erb (2.9ms)
+  Rendered /Users/danieljeng1/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.3/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.3ms)
+  Rendered /Users/danieljeng1/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.3/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (11.3ms)
+
+
+Started POST "/say/hitapi" for 127.0.0.1 at 2012-06-13 14:33:01 -0400
+Processing by SayController#hitapi as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"vOvIoiVQx241GgBNwcAmuS+v+6yqEblSRTBXrfr69ME=", "urls"=>"asdf"}
+Completed 500 Internal Server Error in 0ms
+
+NoMethodError (undefined method `[]' for nil:NilClass):
+  app/controllers/say_controller.rb:22:in `hitapi'
+
+
+  Rendered /Users/danieljeng1/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.3/lib/action_dispatch/middleware/templates/rescues/_trace.erb (3.0ms)
+  Rendered /Users/danieljeng1/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.3/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.5ms)
+  Rendered /Users/danieljeng1/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.3/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (12.3ms)
+
+
+Started POST "/say/hitapi" for 127.0.0.1 at 2012-06-13 14:33:26 -0400
+Processing by SayController#hitapi as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"vOvIoiVQx241GgBNwcAmuS+v+6yqEblSRTBXrfr69ME=", "urls"=>"asdf"}
+Completed 500 Internal Server Error in 35ms
+
+NameError (undefined local variable or method `token' for #<SayController:0x00000102896ce8>):
+  app/controllers/say_controller.rb:25:in `hitapi'
+
+
+  Rendered /Users/danieljeng1/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.3/lib/action_dispatch/middleware/templates/rescues/_trace.erb (2.9ms)
+  Rendered /Users/danieljeng1/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.3/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.4ms)
+  Rendered /Users/danieljeng1/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.3/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (11.6ms)
+
+
+Started POST "/say/hitapi" for 127.0.0.1 at 2012-06-13 14:33:56 -0400
+Processing by SayController#hitapi as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"vOvIoiVQx241GgBNwcAmuS+v+6yqEblSRTBXrfr69ME=", "urls"=>"asdf"}
+Completed 500 Internal Server Error in 2ms
+
+NameError (undefined local variable or method `uri' for #<SayController:0x00000101e08010>):
+  app/controllers/say_controller.rb:27:in `hitapi'
+
+
+  Rendered /Users/danieljeng1/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.3/lib/action_dispatch/middleware/templates/rescues/_trace.erb (3.1ms)
+  Rendered /Users/danieljeng1/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.3/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.3ms)
+  Rendered /Users/danieljeng1/.rvm/gems/ruby-1.9.3-p194/gems/actionpack-3.2.3/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (11.6ms)
+
+
+Started POST "/say/hitapi" for 127.0.0.1 at 2012-06-13 14:34:19 -0400
+Processing by SayController#hitapi as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"vOvIoiVQx241GgBNwcAmuS+v+6yqEblSRTBXrfr69ME=", "urls"=>"asdf"}
+  Rendered text template (0.0ms)
+Completed 200 OK in 31ms (Views: 1.0ms)
+
+
+Started GET "/say/show" for 127.0.0.1 at 2012-06-13 14:34:28 -0400
+Processing by SayController#show as HTML
+  Rendered say/show.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 8ms (Views: 8.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-06-13 14:34:28 -0400
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-06-13 14:34:28 -0400
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/say.css?body=1" for 127.0.0.1 at 2012-06-13 14:34:28 -0400
+Served asset /say.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-06-13 14:34:28 -0400
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-06-13 14:34:28 -0400
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/say.js?body=1" for 127.0.0.1 at 2012-06-13 14:34:28 -0400
+Served asset /say.js - 304 Not Modified (0ms)
+
+
+Started POST "/say/hitapi" for 127.0.0.1 at 2012-06-13 14:34:31 -0400
+Processing by SayController#hitapi as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"vOvIoiVQx241GgBNwcAmuS+v+6yqEblSRTBXrfr69ME=", "urls"=>"v1/user/4fd264e7503dd44ffe000001"}
+  Rendered text template (0.0ms)
+Completed 200 OK in 53ms (Views: 0.4ms)
+
+
+Started GET "/say/hello" for 127.0.0.1 at 2012-06-13 14:36:32 -0400
+Processing by SayController#hello as HTML
+Redirected to http://localhost:3000/oauth/authorize?client_id=4fd7b186503dd47e740000da&redirect_uri=http://localhost:3002/say/bye&response_type=code&scope=
+Completed 302 Found in 1ms
+
+
+Started GET "/say/bye?code=d2ccbb760bf4a0ec4b725892d568dbb2e4b53221498aa2ac1c3fc0cefee7f545&scope=&state" for 127.0.0.1 at 2012-06-13 14:36:34 -0400
+Processing by SayController#bye as HTML
+  Parameters: {"code"=>"d2ccbb760bf4a0ec4b725892d568dbb2e4b53221498aa2ac1c3fc0cefee7f545", "scope"=>"", "state"=>nil}
+  Rendered say/bye.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 19ms (Views: 5.5ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-06-13 14:36:34 -0400
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/say.css?body=1" for 127.0.0.1 at 2012-06-13 14:36:34 -0400
+Served asset /say.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-06-13 14:36:34 -0400
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/say.js?body=1" for 127.0.0.1 at 2012-06-13 14:36:34 -0400
+Served asset /say.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-06-13 14:36:34 -0400
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-06-13 14:36:34 -0400
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/say/show" for 127.0.0.1 at 2012-06-13 14:36:36 -0400
+Processing by SayController#show as HTML
+  Rendered say/show.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 7ms (Views: 6.3ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-06-13 14:36:36 -0400
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-06-13 14:36:36 -0400
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/say.css?body=1" for 127.0.0.1 at 2012-06-13 14:36:36 -0400
+Served asset /say.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-06-13 14:36:36 -0400
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/say.js?body=1" for 127.0.0.1 at 2012-06-13 14:36:36 -0400
+Served asset /say.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-06-13 14:36:36 -0400
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started POST "/say/hitapi" for 127.0.0.1 at 2012-06-13 14:36:39 -0400
+Processing by SayController#hitapi as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"vOvIoiVQx241GgBNwcAmuS+v+6yqEblSRTBXrfr69ME=", "urls"=>"v1/user/4fd264e7503dd44ffe000001"}
+  Rendered text template (0.0ms)
+Completed 200 OK in 27ms (Views: 0.7ms)
